@@ -1,0 +1,448 @@
+id,question,option_a,option_b,option_c,option_d,correct_option
+1,"Look at this series: 2, 4, 6, 8, 10, ... What number should come next?",11,12,13,14,B
+2,"Look at this series: 58, 52, 46, 40, 34, ... What number should come next?",26,28,30,32,B
+3,"Look at this series: 40, 40, 47, 47, 54, ... What number should come next?",40,44,54,61,C
+4,"Look at this series: 544, 509, 474, 439, ... What number should come next?",404,414,420,445,A
+5,"Look at this series: 201, 202, 204, 207, ... What number should come next?",205,208,210,211,D
+6,"Look at this series: 8, 22, 8, 28, 8, ... What number should come next?",9,29,32,34,D
+7,"Look at this series: 80, 10, 70, 15, 60, ... What number should come next?",20,25,30,50,A
+8,"Look at this series: 36, 34, 30, 28, 24, ... What number should come next?",20,22,23,26,B
+9,"Look at this series: 22, 21, 23, 22, 24, 23, ... What number should come next?",22,24,25,26,C
+10,"Look at this series: 3, 4, 7, 8, 11, 12, ... What number should come next?",7,10,14,15,D
+11,"Look at this series: 31, 29, 24, 22, 17, ... What number should come next?",15,14,13,12,A
+12,"Look at this series: 21, 9, 21, 11, 21, 13, ... What number should come next?",14,15,21,23,C
+13,"Look at this series: 53, 53, 40, 40, 27, 27, ... What number should come next?",12,14,27,53,B
+14,"Look at this series: 2, 6, 18, 54, ... What number should come next?",108,148,162,216,C
+15,"Look at this series: 1000, 200, 40, ... What number should come next?",8,10,15,20,A
+16,"Look at this series: 7, 10, 8, 11, 9, 12, ... What number should come next?",7,10,12,13,B
+17,"Look at this series: 14, 28, 20, 40, 32, 64, ... What number should come next?",52,56,96,128,B
+18,"Look at this series: 1.5, 2.3, 3.1, 3.9, ... What number should come next?",4.2,4.4,4.7,5.1,C
+19,"Look at this series: 5.2, 4.8, 4.4, 4, ... What number should come next?",3,3.3,3.5,3.6,D
+20,"Look at this series: 2, 1, 1/2, 1/4, ... What number should come next?",1/3,1/8,2/8,1/16,B
+21,Look at this series: 84 78 72 66 60 54 48. What two numbers should come next?,44 34,42 36,42 32,40 34,B
+22,Look at this series: 3 8 13 18 23 28 33. What two numbers should come next?,39 44,38 44,38 43,37 42,C
+23,Look at this series: 20 20 17 17 14 14 11. What two numbers should come next?,8 8,11 11,11 14,8 9,E
+24,Look at this series: 18 21 25 18 29 33 18. What two numbers should come next?,43 18,41 44,37 18,37 41,D
+25,Look at this series: 9 11 33 13 15 33 17. What two numbers should come next?,19 33,33 35,33 19,15 33,A
+26,Look at this series: 2 8 14 20 26 32 38. What two numbers should come next?,2 46,44 50,42 48,40 42,B
+27,Look at this series: 28 25 5 21 18 5 14. What two numbers should come next?,11 5,10 7,11 8,5 10,A
+28,Look at this series: 9 12 11 14 13 16 15. What two numbers should come next?,14 13,18 21,14 17,12 13,E
+29,Look at this series: 75 65 85 55 45 85 35. What two numbers should come next?,25 15,25 85,35 25,85 35,B
+30,Look at this series: 1 10 7 20 13 30 19. What two numbers should come next?,26 40,29 36,40 25,25 31,C
+31,Look at this series: 10 20 25 35 40 50 55. What two numbers should come next?,70 65,60 70,60 75,60 65,E
+32,Look at this series: 40 40 31 31 22 22 13. What two numbers should come next?,13 4,13 5,4 13,9 4,A
+33,Look at this series: 17 17 34 20 20 31 23. What two numbers should come next?,26 23,34 20,23 33,27 28,E
+34,Look at this series: 2 3 4 5 6 4 8. What two numbers should come next?,9 10,4 8,10 4,9 4,D
+35,Look at this series: 61 57 50 61 43 36 61. What two numbers should come next?,29 61,27 20,31 61,22 15,E
+36,Look at this series: 9 16 23 30 37 44 51. What two numbers should come next?,59 66,56 62,58 66,58 65,D
+37,Look at this series: 8 22 12 16 22 20 24. What two numbers should come next?,28 32,28 22,22 28,32 36,C
+38,Look at this series: 6 20 8 14 10 8 12. What two numbers should come next?,14 10,2 18,4 12,2 14,D
+39,Look at this series: 11 16 21 26 31 36 41. What two numbers should come next?,47 52,46 52,45 49,46 51,E
+40,Look at this series: 8 11 21 15 18 21 22. What two numbers should come next?,25 18,25 21,25 29,24 21,B
+41,Look at this series: 44 41 38 35 32 29 26. What two numbers should come next?,24 21,22 19,23 19,29 32,E
+42,Look at this series: 6 10 14 18 22 26 30. What two numbers should come next?,36 40,33 37,38 42,34 36,E
+43,Look at this series: 34 30 26 22 18 14 10. What two numbers should come next?,8 6,6 4,14 18,6 2,E
+44,Look at this series: 2 44 4 41 6 38 8. What two numbers should come next?,10 12,35 32,34 9,35 10,D
+45,Look at this series: 32 29 26 23 20 17 14. What two numbers should come next?,11 8,12 8,11 7,32 29,A
+46,Look at this series: 14 14 26 26 38 38 50. What two numbers should come next?,60 72,50 62,50 72,62 62,B
+47,Look at this series: 8 12 9 13 10 14 11. What two numbers should come next?,14 11,15 12,8 15,15 19,B
+48,Look at this series: 4 7 26 10 13 20 16. What two numbers should come next?,14 4,14 17,18 14,19 13,E
+49,Look at this series: 3 8 10 15 17 22 24. What two numbers should come next?,26 28,29 34,29 31,26 31,C
+50,Look at this series: 17 14 14 11 11 8 8. What two numbers should come next?,8 5,5 2,8 2,5 5,D
+51,Look at this series: 13 29 15 26 17 23 19. What two numbers should come next?,21 23,20 21,20 17,25 27,B
+52,Look at this series: 16 26 56 36 46 68 56. What two numbers should come next?,80 66,64 82,66 80,78 68,C
+53,Look at this series: 7 9 66 12 14 66 17. What two numbers should come next?,19 66,66 19,19 22,20 66,A
+54,Look at this series: 3 5 35 10 12 35 17. What two numbers should come next?,22 35,35 19,19 35,19 24,C
+55,Look at this series: 36 31 29 24 22 17 15. What two numbers should come next?,13 11,10 5,13 8,12 7,E
+56,Look at this series: 42 40 38 35 33 31 28. What two numbers should come next?,25 22,26 23,26 24,25 23,C
+57,Look at this series: 11 14 14 17 17 20 20. What two numbers should come next?,23 23,23 26,21 24,24 24,A
+58,Look at this series: 17 32 19 29 21 26 23. What two numbers should come next?,25 25,20 22,23 25,25 22,C
+59,Look at this series: 10 34 12 31 14 28 16. What two numbers should come next?,25 18,30 13,19 26,18 20,A
+60,Look at this series: 32 31 32 29 32 27 32. What two numbers should come next?,25 32,31 32,29 32,25 30,A
+61,"Look at this series: 8, 43, 11, 41, __, 39, 17. What number should fill in the blank?",8,14,43,44,B
+62,"Look at this series: 15, __, 27, 27, 39, 39. What number should fill the blank?",51,39,23,15,D
+63,"Look at this series: 83, 73, 93, 63, __, 93, 43. What number should fill the blank?",33,53,73,93,B
+64,"Look at this series: 4, 7, 25, 10, __, 20, 16, 19. What number should fill the blank?",13,15,20,28,A
+65,"Look at this series: 72, 76, 73, 77, 74, __, 75. What number should fill the blank?",70,71,75,78,D
+66,"Look at this series: 70, 71, 76, __, 81, 86, 70, 91. What number should fill the blank?",70,71,80,96,A
+67,"Look at this series: 664, 332, 340, 170, __, 89. What number should fill the blank?",85,97,109,178,D
+68,"Look at this series: 0.15, 0.3, __, 1.2, 2.4. What number should fill the blank?",4.8,0.006,0.6,0.9,C
+69,"Look at this series: 1/9, 1/3, 1, __, 9. What number should fill the blank?",2/3,3,6,27,B
+70,"Look at this series: U32, V29, __, X23, Y20. What should fill the blank?",W26,W17,Z17,Z26,A
+71,"Look at this series: J14, L16, __, P20, R22. What should fill the blank?",S24,N18,M18,T24,B
+72,"Look at this series: F2, __, D8, C16, B32. What should fill the blank?",A16,G4,E4,E3,C
+73,"Look at this series: V, VIII, XI, XIV, __, XX. What should fill the blank?",IX,XXIII,XV,XVII,D
+74,"Look at this series: XXIV, XX, __, XII, VIII. What should fill the blank?",XXII,XIII,XVI,IV,C
+75,"Look at this series: VI, 10, V, 11, __, 12, III. What should fill the blank?",II,IV,IX,14,B
+76,Which group of letters comes next in the series: QPO NML KJI EDC?,HGF,CAB,JKL,GHI,A
+77,Which group comes next: JAK KBL LCM MDN?,OEP,NEO,MEN,PFQ,B
+78,Which group comes next: BCD BCD BCD BCD?,"BCD (subscript 2,2)",BCD (7),"BCD (2,3)","BCD (2,2,2)",D
+79,Which group comes next: ELFA GLHA ILJA MLNA?,OLPA,KLMA,LLMA,KLLA,D
+80,Which group comes next: PQR PQS PQT PQV?,PQW,PQV,PQU,PQU (subscript 3),C
+81,Which group comes next: CMM EOO GQQ KUU?,GRR,GSS,ISS,ITT,C
+82,Which group comes next: QAR RAS SAT TAU?,UAV,UAT,TAS,TAT,A
+83,Which group comes next in the subscript series: DEF1 DEF2 DEF2 DEF3?,DEF3,D3EF,D3E3F3,D2E2F2,A
+84,Which group comes next: SCD TEF UGH WKL?,CMN,UJI,VIJ,IJT,C
+85,Which group comes next: FAG GAF HAI IAH?,JAK,HAL,HAK,JAI,A
+86,Which group comes next: BCB DED FGF HIH?,JKJ,HJH,IJI,JHJ,A
+87,Which group comes next: ZA5 YB4 XC6 WD3?,E5V,V5E,VE2,VE7,D
+102,Which word does NOT belong with the others?,leopard,cougar,elephant,lion,C
+103,Which word does NOT belong with the others?,couch,rug,table,chair,B
+104,Which word does NOT belong with the others?,tape,twine,cord,yarn,A
+105,Which word does NOT belong with the others?,guitar,flute,violin,cello,B
+106,Which word does NOT belong with the others?,tulip,rose,bud,daisy,C
+107,Which word does NOT belong with the others?,tire,steering wheel,engine,car,D
+108,Which word does NOT belong with the others?,parsley,basil,dill,mayonnaise,D
+109,Which word does NOT belong with the others?,branch,dirt,leaf,root,B
+110,Which word does NOT belong with the others?,unimportant,trivial,insignificant,familiar,D
+111,Which word does NOT belong with the others?,book,index,glossary,chapter,A
+112,Which word does NOT belong with the others?,noun,preposition,punctuation,adverb,C
+113,Which word does NOT belong with the others?,cornea,retina,pupil,vision,D
+114,Which word does NOT belong with the others?,rye,sourdough,pumpernickel,loaf,D
+115,Which word does NOT belong with the others?,inch,ounce,centimeter,yard,B
+116,Which word does NOT belong with the others?,street,freeway,interstate,expressway,A
+117,Which word does NOT belong with the others?,dodge,flee,duck,avoid,B
+118,Which word does NOT belong with the others?,heading,body,letter,closing,C
+119,Which word does NOT belong with the others?,core,seeds,pulp,slice,D
+120,Which word does NOT belong with the others?,unique,beautiful,rare,exceptional,B
+121,Which word does NOT belong with the others?,biology,chemistry,theology,zoology,C
+122,Which word does NOT belong with the others?,triangle,circle,oval,sphere,A
+123,Which word does NOT belong with the others?,excite,flourish,prosper,thrive,A
+124,Which word does NOT belong with the others?,evaluate,assess,appraise,instruct,D
+125,Which word does NOT belong with the others?,eel,lobster,crab,shrimp,A
+126,Which word does NOT belong with the others?,scythe,knife,pliers,saw,C
+127,Which word does NOT belong with the others?,two,three,six,eight,B
+128,Which word does NOT belong with the others?,peninsula,island,bay,cape,C
+129,Which word does NOT belong with the others?,seat,rung,cushion,leg,C
+130,Which word does NOT belong with the others?,fair,just,equitable,favorable,D
+131,Which word does NOT belong with the others?,defendant,prosecutor,trial,judge,C
+132,Which word does NOT belong with the others?,area,variable,circumference,quadrilateral,B
+133,Which word does NOT belong with the others?,mayor,lawyer,governor,senator,B
+134,Which word does NOT belong with the others?,acute,right,obtuse,parallel,D
+135,Which word does NOT belong with the others?,wing,fin,beak,rudder,C
+136,Which word does NOT belong with the others?,aorta,heart,liver,stomach,A
+137,Find the word that names a necessary part of: book,fiction,pages,pictures,learning,B
+138,Find the word that names a necessary part of: guitar,band,teacher,songs,strings,D
+139,Find the word that names a necessary part of: shoe,sole,leather,laces,walking,A
+140,Find the word that names a necessary part of: respiration,mouth,circulation,oxygen,carbon monoxide,C
+141,Find the word that names a necessary part of: election,president,voter,November,nation,B
+142,Find the word that names a necessary part of: diploma,principal,curriculum,employment,graduation,D
+143,Find the word that names a necessary part of: swimming,pool,bathing suit,water,life jacket,C
+144,Find the word that names a necessary part of: school,student,report card,test,learning,A
+145,Find the word that names a necessary part of: language,tongue,slang,writing,words,D
+146,Find the word that names a necessary part of: desert,cactus,arid,oasis,flat,B
+147,Find the word that names a necessary part of: lightning,electricity,thunder,brightness,rain,A
+148,Find the word that names a necessary part of: monopoly,corrupt,exclusive,rich,gigantic,B
+149,Find the word that names a necessary part of: harvest,autumn,stockpile,tractor,crop,D
+150,Find the word that names a necessary part of: gala,celebration,tuxedo,appetizer,orator,A
+151,Find the word that names a necessary part of: pain,cut,burn,nuisance,hurt,D
+152,Find the word that names a necessary part of: infirmary,surgery,disease,patient,receptionist,C
+153,Find the word that names a necessary part of: facsimile,picture,image,mimeograph,copier,B
+154,Find the word that names a necessary part of: domicile,tenant,dwelling,kitchen,house,B
+155,Find the word that names a necessary part of: culture,civility,education,agriculture,customs,D
+156,Find the word that names a necessary part of: bonus,reward,raise,cash,employer,A
+157,Find the word that names a necessary part of: antique,rarity,artifact,aged,prehistoric,C
+158,Find the word that names a necessary part of: itinerary,map,route,travel,guidebook,B
+159,Find the word that names a necessary part of: orchestra,violin,stage,musician,soloist,C
+160,Find the word that names a necessary part of: knowledge,school,teacher,textbook,learning,D
+161,Find the word that names a necessary part of: dimension,compass,ruler,inch,measure,D
+162,Find the word that names a necessary part of: sustenance,nourishment,water,grains,menu,A
+163,Find the word that names a necessary part of: ovation,outburst,bravo,applause,encore,C
+164,Find the word that names a necessary part of: vertebrate,backbone,reptile,mammal,animal,A
+165,Find the word that names a necessary part of: provisions,groceries,supplies,gear,caterers,B
+166,Find the word that names a necessary part of: purchase,trade,money,bank,acquisition,D
+167,Find the word that names a necessary part of: dome,rounded,geodesic,governmental,coppery,A
+168,Find the word that names a necessary part of: recipe,desserts,directions,cookbook,utensils,B
+169,Find the word that names a necessary part of: hurricane,beach,cyclone,damage,wind,D
+170,Find the word that names a necessary part of: autograph,athlete,actor,signature,pen,C
+171,Find the word that names a necessary part of: town,residents,skyscrapers,parks,libraries,A
+172,Find the word that names a necessary part of: wedding,love,church,ring,marriage,D
+173,Find the word that names a necessary part of: faculty,buildings,textbooks,teachers,meetings,C
+174,Find the word that names a necessary part of: cage,enclosure,prisoner,animal,zoo,A
+175,Find the word that names a necessary part of: directory,telephone,listing,computer,names,B
+176,Find the word that names a necessary part of: contract,agreement,document,written,attorney,A
+177,Find the word that names a necessary part of: saddle,horse,seat,stirrups,horn,B
+178,Find the word that names a necessary part of: vibration,motion,electricity,science,sound,A
+179,Find the word that names a necessary part of: cell,chlorophyll,nucleus,nerve,human,B
+180,Find the word that names a necessary part of: champion,running,swimming,winning,speaking,C
+181,Find the word that names a necessary part of: glacier,mountain,winter,prehistory,ice,D
+182,Cup is to coffee as bowl is to,dish,soup,spoon,food,B
+183,Exercise is to gym as eating is to,food,dieting,fitness,restaurant,D
+184,Oar is to rowboat as foot is to,running,sneaker,skateboard,jumping,C
+185,Window is to pane as book is to,novel,glass,cover,page,D
+186,Secretly is to openly as silently is to,scarcely,impolitely,noisily,quietly,C
+187,Artist is to painting as senator is to,attorney,law,politician,constituents,B
+188,Play is to actor as concert is to,symphony,musician,piano,percussion,B
+189,Careful is to cautious as boastful is to,arrogant,humble,joyful,suspicious,A
+190,Pride is to lion as school is to,teacher,student,self-respect,fish,D
+191,Guide is to direct as reduce is to,decrease,maintain,increase,preserve,A
+192,Yard is to inch as quart is to,gallon,ounce,milk,liquid,B
+193,Reptile is to lizard as flower is to,petal,stem,daisy,alligator,C
+194,Elated is to despondent as enlightened is to,aware,ignorant,miserable,tolerant,B
+195,Marathon is to race as hibernation is to,winter,bear,dream,sleep,D
+196,Embarrassed is to humiliated as frightened is to,terrified,agitated,courageous,reckless,A
+197,Odometer is to mileage as compass is to,speed,hiking,needle,direction,D
+198,Optimist is to cheerful as pessimist is to,gloomy,mean,petty,helpful,A
+199,Sponge is to porous as rubber is to,massive,solid,elastic,inflexible,C
+200,Candid is to indirect as honest is to,frank,wicked,truthful,untruthful,D
+201,Pen is to poet as needle is to,thread,button,sewing,tailor,D
+242,ant fly bee / hamster squirrel __,spider,mouse,rodent,cat,B
+243,carpenter saw nails / pediatrician stethoscope __,thermometer,baby,doctor,illness,A
+244,table wood oak / shirt cloth __,sewing,dress,cotton,tree,C
+245,rule command dictate / doze sleep __,snore,govern,awaken,hibernate,D
+246,meal banquet feast / shelter palace __,mansion,hallway,protection,haven,A
+247,fence wall boundary / path alley __,ramp,passageway,airfield,pedestrian,B
+248,palette easel brush / textbook lesson plan __,artist,teacher,report card,paint,C
+249,snow mountain ski / warmth lake __,sand,swim,sunburn,vacation,B
+250,candle lamp floodlight / hut cottage __,tent,city,dwelling,house,D
+251,apples fruit supermarket / novel book __,bookstore,magazine,vegetable,shopping,A
+252,tadpole frog amphibian / lamb sheep __,animal,wool,farm,mammal,D
+253,walk skip run / toss pitch __,swerve,hurl,jump,dance,B
+254,honeybee angel bat / kangaroo rabbit __,mermaid,possum,grasshopper,sprinter,C
+255,daisy flower plant / bungalow house __,building,cottage,apartment,city,A
+256,PETAL : FLOWER is analogous to which pair?,salt : pepper,tire : bicycle,base : ball,sandals : shoes,B
+257,BRISTLE : BRUSH is analogous to which pair?,arm : leg,stage : curtain,recline : chair,key : piano,D
+258,FISH : SCHOOL is analogous to which pair?,wolf : pack,elephant : jungle,beagle : clan,herd : peacock,A
+259,ODOMETER : DISTANCE is analogous to which pair?,scale : weight,length : width,inch : foot,mileage : speed,A
+260,SIAMESE : CAT is analogous to which pair?,type : breed,dog : puppy,mark : spot,romaine : lettuce,D
+261,PEDAL : BICYCLE is analogous to which pair?,inch : yardstick,walk : skip,tire : automobile,buckle : belt,E
+262,PULSATE : THROB is analogous to which pair?,walk : run,tired : sleep,examine : scrutinize,ballet : dancer,C
+263,ELEPHANT : PACHYDERM is analogous to which pair?,mantis : rodent,poodle : feline,kangaroo : marsupial,zebra : horse,C
+264,DEPRESSED : SAD is analogous to which pair?,neat : considerate,towering : cringing,rapid : plodding,progressive : regressive,E
+265,PSYCHOLOGIST : NEUROSIS is analogous to which pair?,ophthalmologist : cataract,dermatologist : fracture,infant : pediatrician,rash : orthopedist,A
+266,BINDING : BOOK is analogous to which pair?,criminal : gang,display : museum,artist : carpenter,nail : hammer,E
+267,EXPLORE : DISCOVER is analogous to which pair?,read : skim,research : learn,write : print,think : relate,B
+268,COTTON : BALE is analogous to which pair?,butter : churn,wine : ferment,grain : shock,curd : cheese,C
+269,DIVISION : SECTION is analogous to which pair?,layer : tier,tether : bundle,chapter : verse,riser : stage,A
+270,PASTORAL : RURAL is analogous to which pair?,metropolitan : urban,harvest : autumn,agrarian : benevolent,sleepy : nocturnal,A
+271,WAITRESS : RESTAURANT is analogous to which pair?,doctor : diagnosis,actor : role,driver : truck,teacher : school,D
+272,FINCH : BIRD is analogous to which pair?,frog : toad,elephant : reptile,Dalmatian : dog,collie : marsupial,C
+273,RAIN : DRIZZLE is analogous to which pair?,swim : dive,hop : shuffle,juggle : bounce,walk : run,E
+274,SKEIN : YARN is analogous to which pair?,squeeze : lemon,fire : coal,ream : paper,tree : lumber,C
+275,TAILOR : SUIT is analogous to which pair?,scheme : agent,edit : manuscript,revise : writer,mention : opinion,B
+276,CONDUCTOR : ORCHESTRA is analogous to which pair?,jockey : mount,thrasher : hay,driver : tractor,skipper : crew,D
+277,JAUNDICE : LIVER is analogous to which pair?,rash : skin,dialysis : kidney,smog : lung,valentine : heart,A
+278,COBBLER : SHOE is analogous to which pair?,jockey : horse,contractor : building,mason : stone,cowboy : boot,B
+279,PHOBIC : FEARFUL is analogous to which pair?,finicky : thoughtful,cautious : emotional,envious : desiring,shy : familiar,E
+280,INTEREST : OBSESSION is analogous to which pair?,mood : feeling,weeping : sadness,dream : fantasy,plan : negation,C
+281,MONK : DEVOTION is analogous to which pair?,maniac : pacifism,explorer : contentment,visionary : complacency,rover : wanderlust,D
+282,SLAPSTICK : LAUGHTER is analogous to which pair?,fallacy : dismay,genre : mystery,satire : anger,mimicry : tears,E
+283,VERVE : ENTHUSIASM is analogous to which pair?,loyalty : duplicity,devotion : reverence,intensity : color,eminence : anonymity,B
+284,SOUND : CACOPHONY is analogous to which pair?,taste : style,touch : massage,smell : stench,sight : panorama,C
+285,CONVICTION : INCARCERATION is analogous to which pair?,reduction : diminution,induction : amelioration,radicalization : estimation,marginalization : intimidation,A
+286,DELTOID : MUSCLE is analogous to which pair?,radius : bone,brain : nerve,tissue : organ,blood : vein,A
+287,UMBRAGE : OFFENSE is analogous to which pair?,confusion : penance,infinity : meaning,decorum : decoration,elation : jubilance,D
+288,PROFESSOR : ERUDITE is analogous to which pair?,aviator : licensed,inventor : imaginative,procrastinator : conscientious,overseer : wealthy,B
+289,DEPENDABLE : CAPRICIOUS is analogous to which pair?,fallible : cantankerous,erasable : obtuse,malleable : limpid,capable : inept,D
+290,FROND : PALM is analogous to which pair?,quill : porcupine,blade : evergreen,scale : wallaby,tusk : alligator,A
+291,METAPHOR : SYMBOL is analogous to which pair?,pentameter : poem,rhythm : melody,nuance : song,slang : usage,E
+292,DIRGE : FUNERAL is analogous to which pair?,chain : letter,bell : church,telephone : call,jingle : commercial,D
+293,FERAL : TAME is analogous to which pair?,rancid : rational,repetitive : recurrent,nettlesome : annoying,repentant : honorable,E
+294,SPY : CLANDESTINE is analogous to which pair?,accountant : meticulous,furrier : rambunctious,lawyer : ironic,shepherd : garrulous,A
+295,DOMINANCE : HEGEMONY is analogous to which pair?,romance : sympathy,furtherance : melancholy,independence : autonomy,tolerance : philanthropy,C
+296,AERIE : EAGLE is analogous to which pair?,capital : government,bridge : architect,unit : apartment,kennel : veterinarian,E
+297,"granamelke=big tree, pinimelke=little tree, melkehoon=tree house. Which word could mean 'big house'?",granahoon,pinishur,pinihoon,melkegrana,A
+298,"lelibroon=yellow hat, plekafroti=flower garden, frotimix=garden salad. Which word could mean 'yellow flower'?",lelifroti,lelipleka,plekabroon,frotibroon,B
+299,"moolokarn=blue sky, wilkospadi=bicycle race, moolowilko=blue bicycle. Which word could mean 'racecar'?",wilkozwet,spadiwilko,moolobreil,spadivolo,D
+300,"daftafoni=advisement, imodafta=misadvise, imolokti=misconduct. Which word could mean 'statement'?",kratafoni,kratadafta,loktifoni,daftaimo,A
+301,"dionot=oak tree, blyonot=oak leaf, blycrin=maple leaf. Which word could mean 'maple syrup'?",blymuth,hupponot,patricrin,crinweel,C
+302,"agnoscrenia=poisonous spider, delanocrenia=poisonous snake, agnosdeery=brown spider. Which word could mean 'black widow spider'?",deeryclostagnos,agnosdelano,agnosvitriblunin,trymuttiagnos,C
+303,"myncabel=saddle horse, conowir=trail ride, cabelalma=horse blanket. Which word could mean 'horse ride'?",cabelwir,conocabel,almamyn,conoalma,A
+304,"godabim=kidney stones, romzbim=kidney beans, romzbako=wax beans. Which word could mean 'wax statue'?",godaromz,lazbim,wasibako,romzpeo,C
+305,"tamceno=sky blue, cenorax=blue cheese, aplmitl=star bright. Which word could mean 'bright sky'?",cenotam,mitltam,raxmitl,aplceno,B
+306,"gorblflur=fan belt, pixngorbl=ceiling fan, arthtusl=tile roof. Which word could mean 'ceiling tile'?",gorbltusl,flurgorbl,arthflur,pixnarth,D
+307,"hapllesh=cloudburst, srenchoch=pinball, resbosrench=ninepin. Which word could mean 'cloud nine'?",leshsrench,ochhapl,haploch,haplresbo,D
+308,"migenlasan=cupboard, lasanpoen=boardwalk, cuopdansa=pullman. Which word could mean 'walkway'?",poenmigen,cuopeisel,lasandansa,poenforc,D
+309,"morpirquat=birdhouse, beelmorpir=bluebird, beelclak=bluebell. Which word could mean 'houseguest'?",morpirhunde,beelmoki,quathunde,clakquat,C
+310,"slar=jump, slary=jumping, slarend=jumped. Which word could mean 'playing'?",clargslarend,clargy,ellaclarg,slarmont,B
+311,"briftamint=militant, uftonel=occupied, uftonalene=occupation. Which word could mean 'occupant'?",elbrifta,uftonamint,elamint,briftalene,B
+312,"krekinblaf=workforce, dritakrekin=groundwork, krekinalti=workplace. Which word could mean 'someplace'?",moropalti,krekindrita,altiblaf,dritaalti,A
+313,"plekapaki=fruitcake, pakishillen=cakewalk, treftalan=buttercup. Which word could mean 'cupcake'?",shillenalan,treftpleka,pakitreft,alanpaki,D
+314,"peslligen=basketball court, ligenstrisi=courtroom, oltaganti=placement test. Which word could mean 'guest room'?",peslstrisi,vosefstrisi,gantipesl,oltastrisi,B
+315,"jalkamofti=happy birthday, moftihoze=birthday party, mentogunn=goodness. Which word could mean 'happiness'?",jalkagunn,mentohoze,moftihoze,hozemento,A
+316,"mallonpiml=blue light, mallontifl=blueberry, arpantifl=raspberry. Which word could mean 'lighthouse'?",tiflmallon,pimlarpan,mallonarpan,pimldoken,D
+317,"gemolinea=fair warning, gerimitu=report card, gilageri=weather report. Which word could mean 'fair weather'?",gemogila,gerigeme,gemomitu,gerimita,A
+318,"aptaose=first base, eptaose=second base, lartabuk=ballpark. Which word could mean 'baseball'?",buklarta,oseepta,bukose,oselarta,D
+319,"relftaga=carefree, otaga=careful, fertaga=careless. Which word could mean 'aftercare'?",zentaga,tagafer,tagazen,relffer,C
+320,"malgauper=peach cobbler, malgaport=peach juice, moggagrop=apple jelly. Which word could mean 'apple juice'?",moggaport,malgaauper,gropport,moggagrop,A
+321,Which situation below is the best example of Violating an Apartment Lease?,Tim notifies landlord he won't renew lease,Valerie hasn't paid rent for 3 months as agreed in writing,Mark writes a complaint letter to landlord,Leslie calls her attorney about landlord neglect,B
+322,Which situation below is the best example of Restitution?,Jake borrows camera and offers to pay for repair after breaking it,Rebecca returns car with empty gas tank and apologizes,Aaron's friend Tom finds burst pipe and calls plumber,Lisa suspects pothole caused flat tire and thinks company should pay,A
+323,Which situation below is the best example of Speculation?,Francine decides to wear jeans after reading about Casual Fridays,Mary sits in traffic wishing she took the train,Jennifer feels confident about hotel after research,When Emily opens door in tears Theo guesses there's been a death,D
+324,Which situation below is the best example of a Guarantee?,Melissa purchases highest-rated DVD player,Salesperson advises Curt to buy with guarantee,Local auto body shop specializes in used cars,Lori buys used camera with money-back promise if not satisfactory,D
+325,Which situation best describes Reentry?,Jacob leaves restaurant to manage a new one,Catherine studies abroad for junior year,Malcolm readjusts to civilian life after military service,Sharon decides she can't share apartment,C
+326,Which situation below is the best example of Embellishing the Truth?,Isabel tells coworkers a play was excellent,Realtor describes a house 11 blocks from ocean as prime waterfront property,Fred describes himself as very experienced after 10 years teaching,Basketball coach says talented players will get scholarships,B
+327,Which situation below is the best example of Applying for Seasonal Employment?,Ski instructors work December through March,Matthew prefers outdoor jobs,Lucinda interviews for summer waitressing position at beach resort,Doug's ice cream shop stays open late in summer,C
+328,Which situation below is the best example of an Informal Gathering?,Book club meets on first Thursday of every month,After learning of promotion Jeremy and coworkers go for a quick drink,Mary sends out 25 invitations for a bridal shower,Clara regularly runs into Peter at Mexican restaurant,B
+329,Which situation below is the best example of a batter Legally Completing His Time at Bat?,Jared's blooper puts him in scoring position,Umpire calls a strike on a pitch outside,Pitcher throws knuckleball Joe swings and misses and umpire calls strike,Count is two balls and two strikes as Mario waits,A
+330,Which situation below is the best example of a Five-Day Suspension?,Lillian caught cheating on math test and suspended,Marc asked to leave classroom due to disruptions,Franny uses spray paint to write comments on locker room wall and given suspension,Ms. Farmer says students failing midterm must stay for tutoring,C
+331,Which situation below is the best example of a Tiebreaker?,At halftime score is tied at 28,Mary and Megan each scored three goals,Referee tosses coin to decide possession,Sharks and Bears finished tied and are now in five-minute overtime,D
+332,Which situation below is the best example of Establishing a Power of Attorney?,Louise hires a lawyer to review a contract,Simone takes legal steps to allow her to handle mother's banking,Jack thinks his elderly father can no longer make decisions,At daughter's urging Mrs. Lenox opens retirement account,B
+333,Which situation below is the best example of Erratic Behavior?,Julia cannot contain anger about local politics,Martin punches hole in door after learning he's laid off,Rhonda cannot decide which car to buy,Jeffrey has been calling in sick forgetting meetings and being abusive after 3 years of model behavior,D
+334,Which situation below is the best example of Posthumous Publication?,Richard's illness took his life before he could enjoy reviews of his novel,Melissa's publisher cancels her book contract,Clarence never thought he'd see third book in trilogy published,Elizabeth honored with literary award and daughter accepts on behalf of deceased mother,A
+335,Which situation should the recess aides report to the principal about bullying?,A girl sitting glumly reading a book,Four girls surrounding another girl who seems to have her backpack,Two boys arguing over a basketball play,Three boys huddled over a video game not allowed on school grounds,B
+336,Which hygienist candidate should Dr. Miller consider most seriously?,Marilyn with 15 years experience whose employer says she's the best,Lindy who recently graduated top of her class and worked in day care,James with 3 years experience seeking private office position,Kathy experienced and finishing a degree in early childhood education,B
+337,Which seed package should Mrs. Jansen choose for her shady Arizona backyard?,Rainbow Collection ideal for Northeast cool moist conditions,Greenhouse Collection for brightly lit locations,Treehouse Collection that thrives in shady and partially shady locations,Oasis Collection for dry climates and bright sunlight,C
+338,Which restaurant should Eileen choose for her simple baseball-fan husband's 35th birthday?,Alfredo's fine Italian cuisine with elegant Tuscan decor,Pancho's Mexican Buffet all-you-can-eat,The Parisian Bistro four-star French restaurant,Marty's charming restaurant reminiscent of a baseball clubhouse,D
+339,Which location should Mark's realtor suggest for his toy store?,Storefront in high-rise near train station with young childless professionals,Little shop near elementary school and ice cream store close to town center,Stand-alone storefront on quiet residential street far from center,Storefront in strip mall on outskirts with pharmacy and dry cleaner,B
+340,Which strategy should Rita employ to increase daily bakery business?,Coupons for 25% off wedding anniversary or birthday cakes,Exhibiting at Bridal Expo with wedding cake samples,Newspaper ads advertising breads muffins and cookies at her shop,Moving the bakery to the other side of town,C
+341,Which is most likely the license plate number of Mrs. Carson's taxi?,JXK 12L,JYK 12L,JXK 12I,JXX 12L,A
+342,Which is most likely the telephone number of the pizzeria?,995-9266,995-9336,995-9268,995-8266,A
+343,Taylor Franklin's actions with new employee Kate were:,proper because she's the HR manager,improper because she didn't ensure Kate was comfortable enough,proper because she told Kate to call with questions,improper because she did not issue a temporary identification card,D
+344,The actions taken by Ms. Russo were:,improper because she only found four houses to see,proper because she obtained all necessary information,improper because she failed to get details about client's current living circumstances,proper because she didn't persuade clients to consider unsuitable houses,C
+345,Which two actresses should the casting agent send to meet the director?,1 and 2,2 and 3,1 and 4,2 and 4,B
+346,"Based on the description of Solicitor #4, which of the three solicitations was also likely carried out by Solicitor #4?",#1 #2 and #3,#1 but not #2 and #3,#1 and #3 but not #2,#1 and #2 but not #3,C
+347,"Based on the given information about Erin and her parents, which statement must be true?",Erin's parents like birds better than dogs,Erin does not like birds,Erin and her parents live in an apartment,Erin and her parents would like to move,C
+348,"Based on the given information about Mike's camps, which statement must be true?",Mike's parents want him to learn guitar,Mike prefers music to outdoor activities,Mike goes to some type of camp every summer,Mike likes to sing and dance,D
+349,"Based on the given information about the Pacific yew, which statement must be true?",Taxol is poisonous when taken by healthy people,Taxol has cured people from various diseases,People should not eat the fruit of the Pacific yew,The Pacific yew was considered worthless until taxol was discovered,C
+350,"Based on the information about Mr. and Mrs. Sanchez, which statement must be true?",Mr. Sanchez enjoys planting and growing vegetables,Mr. Sanchez does not like classical music,Mrs. Sanchez cooks the vegetables that Mr. Sanchez grows,Mrs. Sanchez enjoys reading nineteenth-century novels,A
+351,"Based on the information about Tim's commute, which statement must be true?",Tim would be better off taking the bus to work,Tim's commute is less comfortable since the train schedule changed,Many commuters will complain about the new train schedule,Tim will likely look for a new job closer to home,B
+352,"Based on the information about Maya and Julian's vacation plans, which statement must be true?",Maya and Julian take beach vacations every year,The spa is overpriced,It is usually necessary to book at least six months in advance at the spa,Maya and Julian decided to change their vacation plans because of the hurricane,D
+353,"Based on the information about seahorses, which statement must be true?",Seahorses are likely to become extinct within five years,One way to increase seahorse populations is to ban the fishing of seahorses,Biologists from all over the world are working to save the seahorses,Seahorse fishermen have spoken out against the biologists,B
+354,"Based on the information about Vincent's paper route, which statement must be true?",Vincent and Thomas live in the same neighborhood,It takes Thomas more than 50 minutes to deliver the papers,It is dark outside when Vincent begins his deliveries,Thomas would like to have his own paper route,A
+355,"Based on the information about Georgia Marsha and Bart, which statement must be true?",When he plays Monopoly with Marsha and Georgia Bart often loses,Of the three Georgia is the oldest,Georgia hates to lose at Monopoly,Of the three Marsha is the youngest,D
+356,"Based on the information about TV shows, which statement must be true?",Only one of the news-magazine shows remained on the air,Only one of the hour-long dramas remained on the air,At least one of the shows that was cancelled was an hour-long drama,Television viewers prefer sitcoms over hour-long dramas,C
+357,"Based on the information about Sara and Marlee, which statement must be true?",Marlee likes Sara better than Sara likes Marlee,Sara thinks small towns are boring,Sara is older than Marlee,Marlee wants to move to the East Coast,C
+358,"Tanya is older than Eric. Cliff is older than Tanya. Eric is older than Cliff. If the first two statements are true, the third statement is:",true,false,uncertain,,B
+359,"Josh saw more movies than Stephen. Stephen saw fewer movies than Darren. Darren saw more movies than Josh. If the first two statements are true, the third statement is:",true,false,uncertain,,C
+360,"All tulips in Zoe's garden are white. All pansies are yellow. All flowers are either white or yellow. If the first two are true, the third is:",true,false,uncertain,,C
+361,"Blueberries cost more than strawberries. Blueberries cost less than raspberries. Raspberries cost more than both strawberries and blueberries. If the first two are true, the third is:",true,false,uncertain,,A
+362,"All offices on the 9th floor have wall-to-wall carpeting. No wall-to-wall carpeting is pink. None of the offices on the 9th floor has pink wall-to-wall carpeting. If first two are true, the third is:",true,false,uncertain,,A
+363,"Class A has higher enrollment than Class B. Class C has lower enrollment than Class B. Class A has lower enrollment than Class C. If first two are true, the third is:",true,false,uncertain,,B
+364,"Rover weighs less than Fido. Rover weighs more than Boomer. Of the three dogs Boomer weighs the least. If first two are true, the third is:",true,false,uncertain,,A
+365,"All trees in the park are flowering trees. Some trees in the park are dogwoods. All dogwoods are flowering trees. If first two are true, the third is:",true,false,uncertain,,C
+366,"Apartments in Riverdale Manor cost less than in The Gaslight Commons. Apartments in Livingston Gate cost more than The Gaslight Commons. Of the three Livingston Gate costs the most. If first two are true, the third is:",true,false,uncertain,,A
+367,"Kingston Mall has more stores than the Galleria. Four Corners Mall has fewer stores than the Galleria. Kingston Mall has more stores than Four Corners Mall. If first two are true, the third is:",true,false,uncertain,,A
+368,"Mara runs faster than Gail. Lily runs faster than Mara. Gail runs faster than Lily. If first two are true, the third is:",true,false,uncertain,,B
+369,"Oat cereal has more fiber than corn cereal but less than bran. Corn cereal has more fiber than rice but less than wheat. Rice cereal has the least amount of fiber. If first two are true, the third is:",true,false,uncertain,,A
+370,"Jenna weighs more than Jason on birth day. Jason weighs less than Jasmine. Jasmine weighs the most. If first two are true, the third is:",true,false,uncertain,,C
+371,"Temperature on Monday was lower than Tuesday. Temperature on Wednesday was lower than Tuesday. Temperature on Monday was higher than Wednesday. If first two are true, the third is:",true,false,uncertain,,C
+372,"Spot is bigger than King and smaller than Sugar. Ralph is smaller than Sugar and bigger than Spot. King is bigger than Ralph. If first two are true, the third is:",true,false,uncertain,,B
+373,"A fruit basket contains more apples than lemons. There are more lemons than oranges. The basket contains more apples than oranges. If first two are true, the third is:",true,false,uncertain,,A
+374,"The Shop and Save Grocery is south of Greenwood Pharmacy. Rebecca's house is northeast of Greenwood Pharmacy. Rebecca's house is west of the Shop and Save Grocery. If first two are true, the third is:",true,false,uncertain,,B
+375,"Joe is younger than Kathy. Mark was born after Joe. Kathy is older than Mark. If first two are true, the third is:",true,false,uncertain,,A
+376,"All spotted Gangles have long tails. Short-haired Gangles always have short tails. Long-tailed Gangles never have short hair. If first two are true, the third is:",true,false,uncertain,,C
+377,"Battery X lasts longer than Battery Y. Battery Y doesn't last as long as Battery Z. Battery Z lasts longer than Battery X. If first two are true, the third is:",true,false,uncertain,,C
+378,"Martina is sitting in the desk behind Jerome. Jerome is sitting behind Bryant. Bryant is sitting behind Martina. If first two are true, the third is:",true,false,uncertain,,B
+379,"Middletown is north of Centerville. Centerville is east of Penfield. Penfield is northwest of Middletown. If first two are true, the third is:",true,false,uncertain,,B
+380,"Taking the train is quicker than the bus. Bus is slower than driving. Train is quicker than driving. If first two are true, the third is:",true,false,uncertain,,C
+381,"All Lamels are Signots with buttons. No yellow Signots have buttons. No Lamels are yellow. If first two are true, the third is:",true,false,uncertain,,A
+382,"Hotel is two blocks east of drugstore. Market is one block west of hotel. Drugstore is west of market. If first two are true, the third is:",true,false,uncertain,,A
+383,"Tom puts on socks before shoes. He puts on shirt before jacket. Tom puts on shoes before shirt. If first two are true, the third is:",true,false,uncertain,,C
+384,"Three pencils cost same as two erasers. Four erasers cost same as one ruler. Pencils are more expensive than rulers. If first two are true, the third is:",true,false,uncertain,,B
+385,"Jar contains more red jelly beans than green. There are more yellow beans than red. Jar contains fewer yellow beans than green. If first two are true, the third is:",true,false,uncertain,,B
+386,"Cloudy days tend to be more windy than sunny. Foggy days tend to be less windy than cloudy. Sunny days tend to be less windy than foggy. If first two are true, the third is:",true,false,uncertain,,C
+387,"Bookstore has better selection of postcards than newsstand. Drugstore selection is better than bookstore. Drugstore has better selection than bookstore or newsstand. If first two are true, the third is:",true,false,uncertain,,A
+388,"Sedan is parked right of pickup and left of SUV. Minivan is parked left of pickup. Minivan is parked between pickup and sedan. If first two are true, the third is:",true,false,uncertain,,B
+389,"A toothpick is useful. Useful things are valuable. A toothpick is valuable. If first two are true, the third is:",true,false,uncertain,,A
+390,Fact: Jessica has 4 children. Two have blue eyes and two have brown. Half are girls. Which must also be fact? I.At least one girl has blue eyes. II.Two children are boys. III.Boys have brown eyes.,II only,I and III only,II and III only,None is a known fact,A
+391,Fact: All hats have brims. There are black hats and blue hats. Baseball caps are hats. Which must also be fact? I.All caps have brims. II.Some baseball caps are blue. III.Baseball caps have no brims.,I only,II only,"I, II, and III",None is a known fact,D
+392,Fact: All chickens are birds. Some chickens are hens. Female birds lay eggs. Which must also be fact? I.All birds lay eggs. II.Hens are birds. III.Some chickens are not hens.,II only,II and III only,"I, II, and III",None is a known fact,B
+393,Fact: Most stuffed toys are stuffed with beans. There are stuffed bears and tigers. Some chairs are stuffed with beans. Which must also be fact? I.Only children's chairs are stuffed with beans. II.All stuffed tigers are stuffed with beans. III.Stuffed monkeys are not stuffed with beans.,I only,II only,II and III only,None is a known fact,D
+394,Fact: Pictures can tell a story. All storybooks have pictures. Some storybooks have words. Which must also be fact? I.Pictures can tell a story better than words. II.Stories in storybooks are simple. III.Some storybooks have both words and pictures.,I only,II only,III only,None is a known fact,C
+395,Fact: Robert has four vehicles. Two are red. One is a minivan. Which must also be fact? I.Robert has a red minivan. II.Robert has three cars. III.Robert's favorite color is red.,I only,II only,II and III only,None is a known fact,D
+396,Fact: Islands are surrounded by water. Maui is an island. Maui was formed by a volcano. Which must also be fact? I.Maui is surrounded by water. II.All islands are formed by volcanoes. III.All volcanoes are on islands.,I only,III only,I and II only,None is a known fact,A
+397,Fact: All drink mixes are beverages. All beverages are drinkable. Some beverages are red. Which must also be fact? I.Some drink mixes are red. II.All beverages are drink mixes. III.All red drink mixes are drinkable.,I only,II only,I and III,None is a known fact,C
+398,Fact: Eyeglass frames cost between $35 and $350. Some frames are titanium. Some frames are plastic. Which must also be fact? I.Titanium frames cost more than plastic. II.Expensive frames last longer. III.Only a few frames cost less than $35.,II only,I and II only,II and III only,None is a known fact,D
+399,Fact: Some pens don't write. All blue pens write. Some writing utensils are pens. Which must also be fact? I.Some writing utensils don't write. II.Some writing utensils are blue. III.Some blue writing utensils don't write.,II only,I and II only,II and III only,None is a known fact,B
+400,Fact: Mary said 'Ann and I both have cats.' Ann said 'I don't have a cat.' Mary always tells truth but Ann sometimes lies. Which must also be fact? I.Ann has a cat. II.Mary has a cat. III.Ann is lying.,II only,I and II only,"I, II, and III",None is a known fact,C
+401,Fact: All dogs like to run. Some dogs like to swim. Some dogs look like their masters. Which must also be fact? I.All dogs who swim look like masters. II.Dogs who swim also like to run. III.Dogs who run do not look like masters.,I only,II only,II and III only,None is a known fact,B
+402,"After all switches in the chase, which child is directly behind the dog?",James,Ruby,Rachel,Max,D
+403,"How many night shifts in a row has Nurse Kemp worked? (Rogers=5, Miller=15, Calvin=8)",eight,nine,ten,eleven,B
+404,Randy is 2 months older than Greg; Greg is 3 months younger than Ned; Kent is 1 month older than Greg. Who should get the extra piece of pizza?,Randy,Greg,Ned,Kent,C
+405,"After Michael switches with Jed, and Jed switches with Shawn, where is Shawn?",in the alley behind the house,on the north side of the house,in front of the house,on the south side of the house,C
+406,"After all the switching among office workers, who worked on Tuesday?",Mr. Carter,Ms. Falk,Ms. Johnson,Mr. Kirk,D
+407,"Based on seniority (Temple>Rhodes>West>Brody) and Temple not wanting the job, who will be the new math department chairperson?",Mr. Rhodes,Mr. Temple,Ms. West,Ms. Brody,A
+408,Four witnesses gave different descriptions of the mugger. Which description is probably right?,Average height thin middle-aged,Tall thin middle-aged,Tall thin young,Tall average weight middle-aged,B
+409,Who will be moved to the Level 1 gymnastics team (needs biggest prize and most experience)?,Roberta,Beth,Michele,Jamie,B
+410,"After Calvin misses and falls and Burton trips, which defensive player tackles the receiver?",Burton,Zeller,Jenkins,Calvin,C
+411,"Madison=10mi, Frances=5mi, Samantha=7mi, Alexis is farther than Frances but closer than Samantha. How far is Alexis?",nine miles,seven miles,eight miles,six miles,D
+412,Adam and Baxter studied together 7 periods (max). Carter and Dennis worked together 3 periods. Carter doesn't want to work with Adam. Who should work with Baxter?,Carter,Adam,Dennis,Forest,A
+413,Henry is in seat 253. Marla is to his right in 254. George is to Henry's left. Inez is to the left of George. Which seat is Inez in?,251,254,255,256,A
+414,"If legislature funds agricultural subsidy ($2M), national radio ($0.5M), and small business loan ($3M), the only other single program they can fund is:",hurricane preparedness,harbor improvements,school music program,senate office building remodeling,D
+415,"If legislature funds agricultural subsidy, national radio, and small business loan program, what two other programs could they fund?",harbor improvements and international airport,harbor improvements and school music program,hurricane preparedness and school music program,hurricane preparedness and international airport,B
+416,"If legislature funds international airport ($4M) and agricultural subsidies ($2M), on which could they spend the rest ($1M)?",school music program and national radio,hurricane preparedness,harbor improvements and school music program,small business loan program,A
+417,"In the episode with J, K, and L, which statement about other actors is true?",M N and O must all appear,M may appear and N must appear,M must appear and O may appear,O may appear and N may appear,C
+418,Next week involves N's new car and O's new refrigerator. Which is true about other actors?,M J L and K all may appear,J L and K must appear,Only K may appear,Only L may appear,D
+419,Which is an acceptable listing of films to show this week?,Shout Mist Trek Que Pasa Fly and Jealousy,Shout Mist Trek Fly Jealousy and Abra Cadabra,Que Pasa Lessons Mist Shout Abra Cadabra and Trek,Shout Lessons Mist Trek Fly and Jealousy,B
+420,"If Trek starts at 8:00 and is 2 hours long with 20 min cleaning time, when does the next showing of Trek start?",10:00,10:15,10:30,10:45,C
+421,Shout does most business followed by Trek then Mist. Management wants to move Mist to a larger theater. Which is most logical?,theater 1,theater 2,theater 3,theater 4,E
+422,"Based on the song ordering rules for top songs of 1968, which is true?",Song #3 is Honey by Bobby Goldsboro,Song #6 is Hey Jude by The Beatles,Song #1 is Sittin on the Dock of the Bay by Otis Redding,Song #1 is Sunshine of Your Love by Cream,A
+423,Which is the correct order of the 6 top songs of 1968?,Honey Love Is Blue People Got to Be Free Sunshine Sittin Hey Jude,Love Is Blue Hey Jude Honey Sittin People Got to Be Free Sunshine,Sunshine People Got to Be Free Sittin Honey Love Is Blue Hey Jude,Hey Jude Love Is Blue Honey Sittin People Got to Be Free Sunshine,D
+424,"At the Halloween party, which person is dressed as a thermometer?",Quentin,Rachel,Sarah,Thomas,B
+425,What is Ulysses's profession?,photographer,florist,doctor,accountant,E
+426,To which customer should Evan serve the vegetable burger?,chair 2,chair 3,chair 4,chair 5,D
+427,To which customer should Evan serve the soup?,chair 1,chair 2,chair 3,chair 4,C
+428,To which customer should Evan serve the ham sandwich?,chair 1,chair 2,chair 4,chair 5,B
+429,With which entree does the potato salad belong?,soup,hamburger,cheeseburger,fried eggs,A
+430,With which entree do the french fries belong?,soup,cheeseburger,hamburger,fried eggs,C
+431,What color is the vice president's car?,green,yellow,blue,purple,A
+432,Who is the CEO?,Alice,Bert,Cheryl,David,C
+433,Who is the secretary?,Enid,David,Cheryl,Bert,E
+434,Where are the Whippets?,Fulton,Groton,Hudson,Ivy,D
+435,Where are the Panthers?,Ivy,Jersey,Fulton,Groton,E
+436,What team is in Fulton?,Panthers,Gazelles,Whippets,Kangaroos,B
+437,Which flowers should be delivered to Kevin?,carnations,iris,gladioli,daisies,A
+438,Who should get the housewarming gladioli?,Jenny,Kevin,Liz,Michael,D
+439,Which flowers should be delivered to Liz?,gladioli,daisies,roses,carnations,E
+440,Which city is in the desert?,Last Stand,Mile City,New Town,Olliopolis,E
+441,Which city got the most rain?,Last Stand,Mile City,New Town,Olliopolis,A
+442,How much rain did Mile City get?,12 inches,27 inches,32 inches,44 inches,B
+443,Where is Olliopolis located?,the mountains,the coast,in a valley,the desert,C
+444,Who is the moderator?,Lane,Gary,Heloise,Kate,D
+445,Where does Jarrod sit?,seat 1,seat 2,seat 3,seat 4,A
+446,What occupation does Jarrod hold?,a moderator,a pilot,a writer,an attorney,E
+447,Who is the writer?,Gary,Heloise,Jarrod,Kate,B
+448,In what order does Zinnia plant vegetables in the next two years?,first: tomatoes carrots cabbage; second: tomatoes peppers beans,first: tomatoes peppers beans; second: cabbage carrots tomatoes,first: tomatoes carrots peppers; second: tomatoes cabbage beans,first: tomatoes carrots beans; second: tomatoes cabbage peppers,D
+449,When does Sally do the dusting?,Friday,Monday,Tuesday,Wednesday,C
+450,What task does Terry do on Wednesday?,vacuuming,dusting,mopping,sweeping,D
+451,What day is the vacuuming done?,Friday,Monday,Tuesday,Wednesday,B
+452,What task does Vernon do?,vacuuming,dusting,mopping,sweeping,E
+453,What day does Uma do her task?,Monday,Tuesday,Wednesday,Thursday,D
+454,The paragraph about fitness walking best supports which statement?,Fitness walking is better than weight lifting,A health club membership is a poor investment,Walking outdoors provides better workout than indoors,Fitness walking is a convenient and valuable form of exercise,D
+455,The paragraph about medical distribution best supports which statement?,Most world people have never been seen by a doctor,Food production in emerging nations has slowed,Most world doctors are selfish about helping the poor,The medical-supply industry should increase production,E
+456,The paragraph about criminal justice reform best supports which statement that victims of crime should:,learn to forgive their offenders,have the right to confront their offenders,learn the art of mediation,insist that their offenders be punished,B
+457,The paragraph about low-fat ice cream best supports which statement?,Low-fat ice cream produces more revenue than other low-fat foods,Ice cream store owners would be better off carrying only low-fat ice cream,Ice cream store owners no longer think low-fat ice cream is unpopular,Low-fat ice cream is more popular than other kinds,C
+458,The paragraph about calculators in schools best supports which statement?,There are at least two opinions about the use of calculators in schools,Calculators are frequently a detriment to learning math,State legislators are more involved in education than ever before,The price of graphing calculators is less when schools buy in bulk,A
+459,The paragraph about warm winter and home sales best supports which statement?,Consumer spending will be higher thirteen years from now,More people buy houses in February than any other month,During winter months single-family home prices are lowest,There were about 4 million homes for sale in February,E
+460,The paragraph about Shakespeare best supports which statement?,Shakespeare's characters are more interesting than fictional characters today,People today are interested in Shakespeare's work because of the characters,Academic scholars are putting together an anthology,New Yorkers have renewed interest in Shakespeare,B
+461,The paragraph about workforce social values best supports which statement?,Most managers are not loyal to their corporations,Businesses today do not understand their employees' needs,Employees' social values have changed over the past ten years,Career advancement is not important to today's managers,C
+462,The paragraph about Generation Xers best supports which statement?,Generation Xers work harder than other generations,Generation Xers have a tendency to be self-directed workers,Generation Xers have an interest in making history,Generation Xers tend to work in risk-taking jobs,B
+463,The paragraph about school uniforms best supports which statement?,Inappropriate clothing leads to failing grades,Students who wear uniforms get into better colleges,Teachers spend at least 25% of time enforcing dress code,Students are not interested in being part of a community,E
+464,The paragraph about critical reading best supports which statement?,Critical reading is a slow dull but essential process,Best critical reading happens at critical times in a person's life,Readers should question the truth of what they read,Critical reading requires thoughtful and careful attention,D
+465,The paragraph about pollutants best supports which statement?,Toxic insecticides such as DDT have not been banned throughout the world,More pollutants find their way into polar climates than warmer areas,Studies prove many countries have ignored antipollution laws,DDT and toxaphene are the two most toxic insecticides,A
+466,The paragraph about the Fourth Amendment best supports which statement that police cannot search without:,legal authorization,direct evidence of a crime,reading the person their constitutional rights,a reasonable belief that a crime has occurred,A
+467,The paragraph about colonial juries best supports which statement?,Juries are less important today than in colonial times,Jurors today are less interested in court cases,Courtrooms today are more efficient than in colonial times,Jurors in colonial times were more informed than today,E
+468,The paragraph about mathematics best supports which statement?,The study of mathematics is dangerous,Words are more truthful than figures,The study of mathematics is more important than other disciplines,The power of numbers is that they cannot lie,E
+469,The paragraph about human technology best supports which statement?,Stone tools were not really technology,Stone tools were in use for two and a half million years,There is no way to know when stone tools first came into use,In today's world new technologies are constantly being developed,D
+470,The paragraph about obesity best supports which statement?,Public health campaigns that raise consciousness and propose lifestyle changes are productive to fight obesity,Obesity is the leading cause of diabetes,People watch too much television and don't exercise enough,A decline in obesity would radically decrease asthma incidence,A
+471,The paragraph about Miranda warning best supports which statement?,Police who don't warn persons of Miranda rights are guilty of a crime,A Miranda warning must be given before a police interrogation can begin,Police may no longer interrogate without a lawyer present,The 1966 Supreme Court decision should be reversed,B
+472,The paragraph about sun protection best supports which statement?,Children are better protected from the sun than adults,Sales of sun protection products are at an all-time high,Adults are not heeding warnings about sun exposure seriously enough,More adults have skin cancer now than ever before,C
+473,The paragraph about yoga best supports which statement?,Yoga is more popular than high-impact aerobics,Before embarking on new exercise regimen you should think about your needs and desires,Yoga is changing the world of fitness in major ways,Yoga benefits your body and mind,B
+474,The paragraph about school cafeterias best supports which statement?,School cafeterias always emphasized nutritional guidelines,Young people would rather eat in school cafeteria than fast food,School lunch menus are becoming healthier due to major new initiatives,It is possible to make school lunches healthier and appealing without radical transformation,D
+475,The paragraph about physicians and healthcare managers best supports which statement that doctors:,resent the interference of healthcare managers,no longer have adequate training,care a great deal about their patients,are less independent than they used to be,D
+476,The paragraph about motor skills best supports which statement?,Most adults have not refined their motor skills,All adults know how to ride a bicycle,Refined motor skills are specifically limited to adults,Children perform fewer fine motor activities than adults,E
+477,The paragraph about Mars best supports which statement?,Mars now has little or no atmosphere,Mars once had a thicker atmosphere than Earth,Mariner 9 took the first pictures of Mars,Mars is closer to the sun than Earth,A
+478,The paragraph about forest fires best supports which statement?,Forest fire damage is reduced in old-growth forests,Small trees should be cut down to prevent fires,Mature trees should be thinned out to prevent fires,Forest fires do most damage in old-growth forests,A
+479,The paragraph about the Pyramid scheme best supports which statement?,It is fairly easy to spot a Pyramid scheme in the making,The first customer is the most gullible,People who set up Pyramid schemes can fool honest people,The Pyramid scheme had its heyday in the 1920s but is making a comeback,C
+480,The paragraph about Reality TV best supports which statement?,Stars of Reality TV are interested in being rich and famous,Reality TV is the best thing that happened to network television,For Reality TV stars fame will last only as long as their show,Traditional dramas and sitcoms are being replaced by Reality TV,A
+481,The paragraph about knitting best supports which statement?,People are returning to knitting to reconnect with simpler times,Knitting is now more of a group activity than individual hobby,Creating an accurate profile of a type of person depends on common traits,Today's knitters are less accomplished than knitters of the past,C
+482,"To refute the argument that all doctors should charge the same, one might argue that:",All doctors charge too much and should lower their fees,Medical practices are more expensive to maintain in large cities,Doctors who owe student loans should charge more,Medical care from small-town doctors is better,B
+483,A major flaw in the argument about doctor fees is that the speaker assumes that:,All doctors are specialists,All patients carry health insurance,All doctors have huge student loans,All patients take too much time,E
+484,Which of the following would make the English official language argument stronger?,There is currently a law requiring documents in native languages,Most people in US who don't speak English were born here,Immigration rates have decreased recently,Many other countries have an official language,A
+485,Which of the following would make the English official language argument weaker?,Government currently translates into more than 20 languages,English is the most difficult language to learn,Most people who immigrate learn English within two years,Making English official is politically unpopular,C
+486,What is the main point of the passage about flag burning?,Only veterans care about the flag-burning issue,Flag burning almost never happens so outlawing it is waste of time,Flag burning will be important in next election,To outlaw flag burning is to outlaw what the flag represents,D
+487,Which of the following would weaken the flag burning argument?,An action is not considered part of freedom of speech,People who burn the flag usually commit other crimes,The flag was not recognized by government until 1812,State flags are almost never burned,A
+488,Which of the following is similar to the flag burning argument?,Rich should not be allowed to buy politicians so Congress should enact campaign finance reform,Freedom of religion also means right not to participate so mandated school prayer violates freedom of religion,Constitution guarantees freedom to own property so taxes should be illegal,Convicted felons should not have convictions overturned on technicality,B
+489,The club rules restricting number of guests are probably intended to:,assure members are not crowded by guests,provide extra income on slow days,allow members to bring guests for special events,restrict guests to public areas,A
+490,What argument should the mother use to explain why the ointment probably won't help her arthritis?,The ointment was just experimental,The ointment is expensive,Football players' joint pain is not the result of arthritis,She already tried another ointment and it didn't work,C
+491,Which would strengthen the speaker's argument about the arthritis ointment?,The mother used to be a professional bowler,Football players' injuries are rarely painful,The mother's arthritis only flares up in bad weather,The mother finds exercise helps her arthritis,E
+492,Which method of argument is used in the passage about computers in grade school?,A specific example that illustrates the speaker's point,Attacking the beliefs of those who disagree,Relying on an analogy to prove the speaker's point,Displaying statistics that back up the speaker's point,C
+493,Which would strengthen the argument against computers in grade school?,Studies showing computers are expensive,Research on effect of computer games on children,Examples of high school students who use computers improperly,Proof that cost of computers is coming down,E
+494,Which would weaken the argument against computers in grade school?,A demonstration that computers can be used to teach reading and arithmetic,Analysis of cost-effectiveness of new vs old computers,Examples of adults who do not know how to use computers,Recent grade reports of students in computer classes,A
+495,Which method of argument is used in the stoplight passage?,analogy comparing intersection to something dangerous,emotion referring to safety of children to get people interested,statistical analysis noting number of children almost hit,personalization telling story of one child's near accident,B
+496,Which would weaken the argument for a stoplight at the intersection?,Sometimes cars run red lights,Fewer children are injured at corners with stoplights,If parents teach children basic traffic safety they might remember to look,Children from this neighborhood used to take the bus to school farther away,E
+497,In what way does Lars's comment relate to Frances's?,It weakens Frances's argument by changing the focus,It strengthens Frances's argument by providing support for her premise,It states the logical outcome of Frances's views,It provides an argument that is the opposite of Frances's views,B
+498,What main assumption underlies both Frances's and Lars's statements about school breakfast?,As teachers become more scarce schools will have to be more cost-effective,In the information age school equipment is getting more expensive,The study about students and breakfast is inconclusive,Schools have never had the responsibility for supplying students with breakfast,D
+499,What is the point at issue between Quinn and Dakota about drivers' licenses?,Whether sixteen-year-olds should be required to take drivers' education,Whether schools ought to provide drivers' education to younger students,Whether standards for issuing drivers' licenses should become more stringent,Whether sixteen-year-olds are prepared to drive in today's traffic conditions,D
+500,On what does Quinn rely in making her argument about drivers' licenses?,statistics,emotion,fairness,anecdotes,C
+501,On what does Dakota rely in making her argument about drivers' licenses?,statistics,emotion,fairness,anecdotes,E

@@ -1,0 +1,13 @@
+[
+    {
+        "candidate_id": "CAND_001",
+        "timestamp": "2026-05-20 02:30:47.532803",
+        "overall_score": 83,
+        "difficulty": "medium",
+        "recommendation": "Proceed to Final HR Round",
+        "advanced_feedback": {
+            "technical_depth": "Moderate technical understanding",
+            "hiring_risk": "Medium"
+        }
+    }
+]

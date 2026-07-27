@@ -1,0 +1,311 @@
+id,section,category,question,option_a,option_b,option_c,option_d,correct_option
+1,Quantitative Aptitude,Percentages,A number is increased by 20% and then decreased by 20%. What is the net percentage change?,0%,4% decrease,4% increase,No change,B
+2,Quantitative Aptitude,Percentages,"If 30% of a number is 90, what is 50% of that number?",120,150,180,135,B
+3,Quantitative Aptitude,Percentages,"In an election between two candidates, one got 65% of the votes. If the total votes were 8000, by how many votes did the winner win?",2000,2400,2600,2800,B
+4,Quantitative Aptitude,Percentages,A salary was first increased by 10% and then reduced by 10%. What is the effective change?,0%,1% decrease,1% increase,2% decrease,B
+5,Quantitative Aptitude,Percentages,"If the price of a product rises by 25%, by what percent must a consumer reduce consumption to keep expenditure the same?",20%,25%,15%,16.67%,A
+6,Quantitative Aptitude,Percentages,A student scores 60% in the first test and 80% in the second. Both tests have 100 marks each. What is the combined percentage?,60%,70%,72%,68%,B
+7,Quantitative Aptitude,Percentages,What is 15% of 20% of 500?,15,10,12,18,A
+8,Quantitative Aptitude,Percentages,A shopkeeper marks up goods by 40% over cost and gives a 10% discount on the marked price. What is the profit percent?,26%,30%,20%,24%,A
+9,Quantitative Aptitude,Profit & Loss,A product bought for Rs.500 is sold at a loss of 10%. What is the selling price?,Rs.450,Rs.400,Rs.475,Rs.550,A
+10,Quantitative Aptitude,Profit & Loss,"A trader sells two items, each at Rs.990. On one he gains 10% and on the other he loses 10%. What is the overall profit/loss?",No profit no loss,Loss of Rs.20,Profit of Rs.20,Loss of Rs.18,B
+11,Quantitative Aptitude,Profit & Loss,"By selling 12 items for Rs.1, a person incurs a loss equal to the cost of 3 items. The loss percent is?",20%,25%,30%,15%,A
+12,Quantitative Aptitude,Profit & Loss,Cost price of 10 articles is equal to selling price of 8 articles. Profit percent is?,20%,25%,10%,15%,B
+13,Quantitative Aptitude,Profit & Loss,"A man sold a watch at a loss of 5%. Had he sold it for Rs.56.25 more, he would have gained 10%. The cost price of the watch is?",Rs.350,Rs.375,Rs.400,Rs.425,B
+14,Quantitative Aptitude,Ratio & Proportion,"If A:B = 2:3 and B:C = 4:5, what is A:C?",8:15,5:8,2:5,4:9,A
+15,Quantitative Aptitude,Ratio & Proportion,"The ratio of two numbers is 3:5. If both are increased by 6, the new ratio is 2:3. The numbers are?",12 and 20,18 and 30,24 and 40,6 and 10,B
+16,Quantitative Aptitude,Ratio & Proportion,Three friends share Rs.4200 in the ratio 1:2:4. The largest share is?,Rs.1200,Rs.2400,Rs.600,Rs.1800,B
+17,Quantitative Aptitude,Ratio & Proportion,"A mixture has milk and water in ratio 5:3. If 4 litres of water is added, the ratio becomes 5:4. How many litres of milk is in the mixture?",10,15,20,25,C
+18,Quantitative Aptitude,Ratio & Proportion,The ages of A and B are in ratio 3:2. After 5 years the ratio will be 7:5. What are their present ages?,15 and 10,21 and 14,12 and 8,18 and 12,A
+19,Quantitative Aptitude,Time Speed Distance,A train 200m long passes a pole in 20 seconds. What is its speed in km/h?,36 km/h,40 km/h,45 km/h,32 km/h,A
+20,Quantitative Aptitude,Time Speed Distance,Two trains 150m and 200m long run at 40 km/h and 50 km/h towards each other. How long do they take to cross each other?,12 seconds,14 seconds,16 seconds,18 seconds,B
+21,Quantitative Aptitude,Time Speed Distance,A person covers 360 km by bus at 60 km/h and then 120 km by car at 80 km/h. Average speed for the entire journey?,62.5 km/h,60 km/h,65 km/h,70 km/h,A
+22,Quantitative Aptitude,Time Speed Distance,"Walking at 3/4 of usual speed, a man reaches office 20 minutes late. What is his usual time?",40 min,45 min,60 min,30 min,C
+23,Quantitative Aptitude,Time Speed Distance,A and B start from same point walking at 5 km/h and 3 km/h in opposite directions. After how many hours will they be 32 km apart?,3 hours,4 hours,5 hours,6 hours,B
+24,Quantitative Aptitude,Time & Work,"A can do a job in 12 days, B in 15 days. Working together, how long will they take?",6 days,6.67 days,7 days,8 days,B
+25,Quantitative Aptitude,Time & Work,A can complete a work in 10 days and B in 15 days. They start together but A leaves after 3 days. How many more days will B take to finish?,9 days,10 days,8 days,7.5 days,A
+26,Quantitative Aptitude,Time & Work,"If 6 workers can build a wall in 8 days, how many workers are needed to build it in 2 days?",16,20,24,18,C
+27,Quantitative Aptitude,Time & Work,"A pipe fills a tank in 6 hours; another drains it in 9 hours. If both are open, when will the tank be full (starting empty)?",12 hours,15 hours,18 hours,20 hours,C
+28,Quantitative Aptitude,Time & Work,"Three taps A, B, C fill a tank in 12, 15, and 20 hours. All three open simultaneously; in how many hours is the tank full?",4 hours,5 hours,6 hours,8 hours,B
+29,Quantitative Aptitude,Averages,The average of 5 numbers is 10. A sixth number is added and the average becomes 12. What is the sixth number?,20,22,24,18,B
+30,Quantitative Aptitude,Averages,The average marks of 30 students is 52. The top 5 students averaged 90. What is the average of the remaining 25?,44,42,40,46,A
+31,Quantitative Aptitude,Averages,The average weight of 10 persons increases by 2 kg when one person weighing 55 kg is replaced. The weight of the new person is?,70 kg,72 kg,75 kg,80 kg,C
+32,Quantitative Aptitude,Averages,"Average of 20 numbers is 35. If 5 more numbers averaging 15 are added, what is the new average?",28,30,32,25,B
+33,Quantitative Aptitude,Interest,Simple interest on a sum at 4% per annum for 2 years is Rs.80. What is the principal?,Rs.900,Rs.1000,Rs.1100,Rs.800,B
+34,Quantitative Aptitude,Interest,What is the compound interest on Rs.5000 at 10% per annum for 2 years?,Rs.1000,Rs.1050,Rs.1100,Rs.500,B
+35,Quantitative Aptitude,Interest,A sum becomes Rs.4840 in 2 years at 10% compound interest. What is the principal?,Rs.3800,Rs.4000,Rs.4200,Rs.4400,B
+36,Quantitative Aptitude,Interest,At what rate of simple interest will Rs.1200 amount to Rs.1560 in 3 years?,8%,10%,12%,15%,B
+37,Quantitative Aptitude,P&C / Probability,In how many ways can 5 people be seated in a row?,60,100,120,24,C
+38,Quantitative Aptitude,P&C / Probability,How many 3-digit numbers can be formed using digits 1–7 without repetition?,210,180,240,120,A
+39,Quantitative Aptitude,P&C / Probability,A bag contains 4 red and 6 blue balls. Probability of drawing 2 red balls?,1/5,2/15,3/10,6/45,B
+40,Quantitative Aptitude,P&C / Probability,A die is rolled twice. Probability of getting the same number both times?,1/6,1/12,1/3,1/36,A
+41,Quantitative Aptitude,P&C / Probability,In how many ways can a committee of 3 be chosen from 8 people?,56,48,24,120,A
+42,Quantitative Aptitude,Number System,What is the remainder when 2^100 is divided by 3?,0,1,2,Cannot determine,B
+43,Quantitative Aptitude,Number System,The LCM of two numbers is 48 and HCF is 8. One number is 24. What is the other?,12,16,24,8,B
+44,Quantitative Aptitude,Number System,The sum of two numbers is 40 and their product is 375. What is the sum of their squares?,250,325,400,275,A
+45,Quantitative Aptitude,Number System,"What is the smallest number divisible by 1, 2, 3, 4, 5, 6, 7, 8, 9, 10?",3600,2520,5040,1260,B
+46,Quantitative Aptitude,Number System,"A number when divided by 342 gives remainder 47. When divided by 18, the remainder is?",9,11,13,15,B
+47,Quantitative Aptitude,Algebra,"If x + y = 10 and xy = 21, what is x² + y²?",58,56,62,48,A
+48,Quantitative Aptitude,Algebra,The product of two consecutive even numbers is 168. What are the numbers?,12 and 14,10 and 12,14 and 16,8 and 10,A
+49,Quantitative Aptitude,Algebra,"If 3x – y = 9 and x + 2y = 7, what is x?",3,4,5,2,A
+50,Quantitative Aptitude,Algebra,A train and a car are 480 km apart and move towards each other at 80 km/h and 40 km/h. After how many hours do they meet?,3 hours,4 hours,5 hours,6 hours,B
+51,Quantitative Aptitude,Geometry,"The area of a rectangle is 240 sq m. If the length is 20 m, what is the perimeter?",72 m,68 m,60 m,80 m,B
+52,Quantitative Aptitude,Geometry,The diagonal of a square is 10√2 cm. What is the area?,100 sq cm,200 sq cm,50 sq cm,150 sq cm,A
+53,Quantitative Aptitude,Geometry,A cylinder has radius 7 cm and height 10 cm. Its volume is? (π = 22/7),1540 cu cm,1760 cu cm,1400 cu cm,1200 cu cm,A
+54,Quantitative Aptitude,Geometry,The perimeter of a semicircle of radius 14 cm is? (π = 22/7),72 cm,66 cm,56 cm,80 cm,A
+55,Quantitative Aptitude,Geometry,Two circles have radii 5 cm and 3 cm. The distance between centers is 10 cm. The circles are?,Externally tangent,Intersecting,One inside other,Externally separate,D
+56,Quantitative Aptitude,Data Interpretation,"In 2020 sales were 200 units, in 2021 they were 250 units. What is the percentage increase?",20%,25%,30%,50%,B
+57,Quantitative Aptitude,Data Interpretation,A pie chart shows 90° for category A. What percentage does A represent?,25%,30%,20%,35%,A
+58,Quantitative Aptitude,Data Interpretation,"A bar chart shows monthly sales: Jan=100, Feb=120, Mar=90, Apr=110. Average monthly sales?",95,100,105,110,C
+59,Quantitative Aptitude,Data Interpretation,"If a table shows profit/loss over 4 years as +10%, –5%, +20%, –10%, what is approximate net result starting from Rs.1000?",Rs.1122,Rs.1200,Rs.1050,Rs.1100,A
+60,Quantitative Aptitude,Data Interpretation,A dataset has mean=50 and standard deviation=5. What percentage lies within one standard deviation? (Normal distribution),68%,95%,99%,50%,A
+61,Quantitative Aptitude,Clocks & Calendars,At what time between 3 and 4 o'clock are the hands of a clock together?,3:15:00,3:16:21,3:20:00,3:22:30,B
+62,Quantitative Aptitude,Clocks & Calendars,What day of the week is 1 January 2024? (1 Jan 2023 was Sunday),Sunday,Monday,Tuesday,Wednesday,B
+63,Quantitative Aptitude,Clocks & Calendars,"A clock gains 5 minutes every hour. If set correctly at noon, what time does it show at 6 PM?",6:30 PM,6:25 PM,6:15 PM,6:45 PM,A
+64,Quantitative Aptitude,Clocks & Calendars,How many times do the hands of a clock coincide in 24 hours?,22,24,44,48,C
+65,Quantitative Aptitude,Mixtures,In what ratio must water be mixed with milk costing Rs.12/litre to get a mixture worth Rs.8/litre?,1:2,1:1,2:1,1:3,A
+66,Quantitative Aptitude,Mixtures,A 60L container has milk and water in ratio 7:3. How much milk must be added to make ratio 9:1?,40 L,60 L,42 L,30 L,B
+67,Quantitative Aptitude,Mixtures,Two alloys have gold content of 60% and 40%. In what ratio should they be mixed for 50%?,1:1,2:1,1:2,3:2,A
+68,Quantitative Aptitude,Indices,"If 2^(x+1) = 32, what is x?",3,4,5,6,B
+69,Quantitative Aptitude,Indices,What is (27)^(2/3)?,3,6,9,18,C
+70,Quantitative Aptitude,Indices,Simplify: √(48) – √(27) + √(75),4√3,6√3,5√3,3√3,B
+71,Quantitative Aptitude,Series,Find the sum of the series: 1 + 3 + 5 + ... + 99,2000,2500,2025,2601,B
+72,Quantitative Aptitude,Series,"Find the 10th term of the arithmetic sequence: 2, 5, 8, 11, ...",28,29,30,32,B
+73,Quantitative Aptitude,Series,A geometric series has first term 3 and common ratio 2. What is the sum of first 6 terms?,189,183,192,186,A
+74,Quantitative Aptitude,Series,What is 1² + 2² + 3² + ... + 10²?,385,285,355,375,A
+75,Quantitative Aptitude,Logical Math,"If 5 machines produce 5 widgets in 5 minutes, how long do 100 machines take to produce 100 widgets?",100 min,20 min,5 min,1 min,C
+76,Quantitative Aptitude,Logical Math,A farmer had 17 sheep. All but 9 died. How many are left?,8,9,17,None,B
+77,Quantitative Aptitude,Logical Math,Divide 110 into two parts such that one is 150% of the other.,44 and 66,55 and 55,40 and 70,60 and 50,A
+78,Quantitative Aptitude,Logical Math,A shop sells 3 mangoes for price of 4 bananas. 6 bananas cost Rs.24. Cost of 1 mango?,Rs.12,Rs.14,Rs.16,Rs.10,C
+79,Quantitative Aptitude,Logical Math,"If A is 40% more than B, then B is what percent less than A?",28.57%,30%,40%,25%,A
+80,Quantitative Aptitude,Logical Math,"A number when divided by 7 gives remainder 1, divided by 5 gives remainder 3. Smallest such number?",36,43,22,8,D
+81,Logical Reasoning,Number Series,"Find the missing term: 2, 6, 12, 20, 30, __",40,42,44,46,B
+82,Logical Reasoning,Number Series,"Find the missing term: 3, 7, 13, 21, 31, __",41,43,45,47,B
+83,Logical Reasoning,Number Series,"Find the missing term: 1, 4, 9, 16, 25, __",30,36,32,40,B
+84,Logical Reasoning,Number Series,"Find the missing term: 0, 1, 1, 2, 3, 5, 8, __",11,12,13,14,C
+85,Logical Reasoning,Number Series,"Find the missing term: 256, 128, 64, 32, __",8,16,24,4,B
+86,Logical Reasoning,Number Series,"Find the missing term: 2, 3, 5, 7, 11, 13, __",15,17,19,21,B
+87,Logical Reasoning,Number Series,"2, 5, 10, 17, 26, __",35,37,36,38,B
+88,Logical Reasoning,Letter Series,"Find the next term: A, C, F, J, O, __",S,T,U,V,C
+89,Logical Reasoning,Letter Series,"Find the next term: Z, X, V, T, R, __",O,P,Q,N,B
+90,Logical Reasoning,Letter Series,"Find the next term: AB, DE, GH, JK, __",LM,MN,NO,NP,B
+91,Logical Reasoning,Coding-Decoding,"If APPLE is coded as BQQMF, how is MANGO coded?",NBNHP,NBOHP,NBOHO,NBNHO,B
+92,Logical Reasoning,Coding-Decoding,"If CAT = 24 and DOG = 26, what is RAT?",38,40,42,44,B
+93,Logical Reasoning,Coding-Decoding,"If '1' means '+', '2' means '–', '3' means '×', '4' means '÷', then 8 3 4 2 5 1 2 = ?",3,5,7,9,B
+94,Logical Reasoning,Coding-Decoding,"In a certain code, FIRE is written as IUFR. How is WIND written?",IODW,ODWI,NXJF,JOXE,A
+95,Logical Reasoning,Coding-Decoding,"If COMPUTER is coded as RFUVQNPC, how is PROGRAM coded?",QSPHSBN,NFHPSHQ,EPTJVQN,RFSVNPQ,A
+96,Logical Reasoning,Blood Relations,A man pointing to a photograph says 'The lady in the photo is my nephew's maternal grandmother.' How is the lady related to the man's sister (who has only one child)?,Sister,Mother,Herself,Daughter,C
+97,Logical Reasoning,Blood Relations,"If A is the father of B, B is the sister of C, C is the mother of D. How is A related to D?",Grandfather,Uncle,Father,Great-grandfather,A
+98,Logical Reasoning,Blood Relations,P is the son of Q. Q is married to R. T is the daughter of R. How is T related to P?,Sister,Aunt,Cousin,Mother,A
+99,Logical Reasoning,Blood Relations,"Introducing a girl, a boy says 'She is the only daughter of the only son of my mother's only sister.' How is the girl related to the boy?",Niece,Cousin,Aunt,Sister,B
+100,Logical Reasoning,Direction Sense,"Starting from point A, John walks 10 km North, then 6 km East, then 10 km South. How far is he from A?",6 km,4 km,10 km,8 km,A
+101,Logical Reasoning,Direction Sense,"A person walks 5 km East, turns left and walks 3 km, turns right and walks 2 km. In what direction is he from the starting point?",South-East,North-East,East,North,B
+102,Logical Reasoning,Direction Sense,"At 6 AM facing East, you turn right twice (90° each time). Which direction are you facing?",East,West,North,South,B
+103,Logical Reasoning,Direction Sense,"Rohan walks 4 km North, 3 km East, 4 km South. The shortest distance back is?",3 km,4 km,5 km,6 km,A
+104,Logical Reasoning,Syllogism,All roses are flowers. Some flowers are red. Conclusion: Some roses are red.,Definitely true,Possibly true,Definitely false,Data insufficient,B
+105,Logical Reasoning,Syllogism,No table is chair. All chairs are wood. Conclusion: No table is wood.,True,False,Uncertain,Partially true,B
+106,Logical Reasoning,Syllogism,All engineers are graduates. Raju is an engineer. Conclusion: Raju is a graduate.,True,False,Uncertain,Cannot be determined,A
+107,Logical Reasoning,Syllogism,Some cats are dogs. All dogs are animals. Conclusion: Some cats are animals.,True,False,Uncertain,None of the above,A
+108,Logical Reasoning,Syllogism,All books are pens. No pen is paper. Conclusion: No book is paper.,True,False,Uncertain,Partially true,A
+109,Logical Reasoning,Arrangement,Six people A B C D E F sit in a row. A is to the immediate right of B. D is at one extreme. C is adjacent to E. F is between B and D. Who is in the middle?,C,E,B,F,D
+110,Logical Reasoning,Arrangement,5 friends P Q R S T sit in a circle. Q is to the right of P; S is opposite P; T is between Q and S. Who is to the left of P?,Q,S,T,R,D
+111,Logical Reasoning,Arrangement,"In a row of boys facing North, A is 10th from left. B is 5th from right. There are 3 boys between A and B. Total boys in row?",17,18,19,20,B
+112,Logical Reasoning,Rankings,A > B > C; D < B; E > A. Who ranks 3rd from top?,B,C,D,A,A
+113,Logical Reasoning,Rankings,P is taller than Q but shorter than R. S is taller than T but shorter than P. Who is shortest?,Q,T,S,P,A
+114,Logical Reasoning,Rankings,"In a class of 40, Riya is 15th from top. What is her rank from bottom?",25,26,27,28,B
+115,Logical Reasoning,Rankings,A train stops at 8 stations. The number of different point-to-point tickets that can be printed is?,56,64,48,72,A
+116,Logical Reasoning,Critical Reasoning,Statement: 'A stitch in time saves nine.' The implicit assumption is:,Timely action prevents bigger problems,Sewing is important,Nine stitches are wasteful,Clothes tear often,A
+117,Logical Reasoning,Critical Reasoning,Statement: The government reduced petrol tax to curb inflation. Assumption:,Petrol prices affect inflation,Inflation is unrelated to petrol,Taxes are always inflationary,None of these,A
+118,Logical Reasoning,Critical Reasoning,Statement: 'Use our app to find jobs easily.' Conclusion:,The app guarantees a job,Job seeking is difficult without the app,The app is free,The app helps in job search,D
+119,Logical Reasoning,Critical Reasoning,Argument: 'All tech companies should allow remote work since productivity increases.' The weakest counter-argument is:,Some roles need physical presence,Remote work reduces collaboration,Not all employees have good home setups,Tech companies are already profitable,D
+120,Logical Reasoning,Analogy,Doctor : Hospital :: Teacher : ?,Student,School,Book,Subject,B
+121,Logical Reasoning,Analogy,Bug : Software :: Virus : ?,Computer,Biology,Disease,Network,A
+122,Logical Reasoning,Analogy,Query : SQL :: Request : ?,HTTP,HTML,CSS,JavaScript,A
+123,Logical Reasoning,Analogy,Compiler : Source Code :: Interpreter : ?,Machine Code,Script,Assembly,Binary,B
+124,Logical Reasoning,Analogy,RAM : Volatile :: ROM : ?,Non-volatile,Slow,Erasable,Permanent,A
+125,Logical Reasoning,Odd One Out,"Which does NOT belong: Python, Java, SQL, C++?",Python,Java,SQL,C++,C
+126,Logical Reasoning,Odd One Out,"Which does NOT belong: Stack, Queue, Array, Compiler?",Stack,Queue,Array,Compiler,D
+127,Logical Reasoning,Odd One Out,"Which does NOT belong: MySQL, MongoDB, PostgreSQL, Redis?",MySQL,MongoDB,PostgreSQL,Redis,D
+128,Logical Reasoning,Odd One Out,"Which does NOT belong: HTML, CSS, React, Django?",HTML,CSS,React,Django,D
+129,Logical Reasoning,Odd One Out,"Which does NOT belong: TCP, UDP, HTTP, IP?",TCP,UDP,HTTP,IP,C
+130,Logical Reasoning,Pattern,What number completes the pattern? [3 9 27 / 2 4 8 / 5 25 __],100,120,125,130,C
+131,Logical Reasoning,Pattern,In the matrix [1 2 3 / 4 5 6 / 7 8 ?] where each row sums to same total as diagonals — missing number is?,9,10,11,12,A
+132,Logical Reasoning,Pattern,"A coding test shows n=5 and the output is 15. For n=6, output is 21. What is the pattern?",n²,n(n+1)/2,2n+1,n+5,B
+133,Logical Reasoning,Pattern,"Sequence: 1, 8, 27, 64, __",100,121,125,216,C
+134,Logical Reasoning,Input-Output,"A machine accepts a number, adds 3, multiplies by 2, then subtracts 4. Input: 5, Output: ?",12,14,16,18,B
+135,Logical Reasoning,Input-Output,If the rule is: word → reverse the word and capitalize first letter. PYTHON → ?,NOHTPY,Nohtpy,nohtyP,NOHTYP,B
+136,Logical Reasoning,Input-Output,"Function f(n) = 2f(n–1) + 1, f(1) = 1. What is f(4)?",7,15,14,16,B
+137,Logical Reasoning,Input-Output,"A process takes an array [3, 1, 4, 1, 5] and outputs the sorted array. Output is:","[1,1,3,4,5]","[5,4,3,1,1]","[3,1,1,4,5]","[1,3,4,1,5]",A
+138,Logical Reasoning,Clocks,How many degrees does the minute hand turn in 25 minutes?,120°,150°,180°,125°,B
+139,Logical Reasoning,Clocks,The angle between hour and minute hands at 3:30 is?,60°,75°,90°,105°,B
+140,Logical Reasoning,Calendars,"If today is Wednesday, what day is it after 100 days?",Thursday,Friday,Saturday,Sunday,B
+141,Logical Reasoning,Puzzle,A man has 2 sons and 2 daughters. Each son has 3 sisters and 1 brother. How many children does the man have?,4,5,6,7,A
+142,Logical Reasoning,Puzzle,"If you have a 3-litre jug and a 5-litre jug with unlimited water, how do you measure exactly 4 litres?","Fill 5, pour to 3, empty 3, pour from 5 to 3, fill 5, pour to 3",Fill 3 twice into 5,Cannot be done,Fill 5 twice,A
+143,Logical Reasoning,Puzzle,A room has 4 corners. A cat sits in each corner. Each cat sees 3 cats. How many cats are in the room?,4,8,12,16,A
+144,Logical Reasoning,Puzzle,In a group of 100 people 72 speak English 43 speak French. How many speak both?,15,17,25,35,A
+145,Logical Reasoning,Puzzle,There are 50 bicycles and tricycles totalling 130 wheels. How many bicycles are there?,20,30,35,40,A
+146,Logical Reasoning,Data Sufficiency,Is x > 0? Statement 1: x² = 4. Statement 2: x³ = 8.,Statement 1 alone is sufficient,Statement 2 alone is sufficient,Both together are sufficient,Neither is sufficient,B
+147,Logical Reasoning,Data Sufficiency,What is the value of integer n? Statement 1: n is a factor of 12. Statement 2: n is a multiple of 4.,Statement 1 alone is sufficient,Statement 2 alone is sufficient,Both together are sufficient,Neither is sufficient,C
+148,Logical Reasoning,Logical,All apples in the basket are rotten. I pick one. It is most likely?,Fresh,Rotten,Unknown,Red,B
+149,Logical Reasoning,Logical,"It takes 8 minutes to boil an egg. If you want 4 boiled eggs, how long does it take?",32 minutes,16 minutes,8 minutes,24 minutes,C
+150,Logical Reasoning,Logical,A is twice as old as B was when A was as old as B is now. A is 24. How old is B?,16,18,20,12,A
+151,Logical Reasoning,Logical,Two fathers and two sons dine. Only 3 plates are used. How?,One man is grandfather father and son,One is imaginary,They share plates,Two of them are same person,A
+152,Logical Reasoning,Logical,Tom says 'I was born on Feb 29.' What is the minimum gap between his birthdays?,2 years,3 years,4 years,8 years,C
+153,Logical Reasoning,Logical,A shopkeeper buys eggs at 10 for Rs.8 and sells at 8 for Rs.10. Profit or loss percent?,Profit 56.25%,Loss 56.25%,Profit 50%,Profit 25%,A
+154,Logical Reasoning,Logical,In a 100m race A beats B by 10m and B beats C by 10m. By how much does A beat C?,19 m,20 m,21 m,18 m,A
+155,Logical Reasoning,Logical,"A clock loses 5 min every hour. If it shows 8 AM now, what is the real time if 6 hours have passed?",1:30 PM,2:00 PM,2:30 PM,3:00 PM,B
+156,Logical Reasoning,Logical,"Find the odd one: 8, 27, 64, 100, 125, 216",27,100,125,64,B
+157,Logical Reasoning,Logical,Sum of digits of numbers from 1 to 10?,45,46,55,50,C
+158,Logical Reasoning,Logical,A rectangle has perimeter 48 m. Length is twice the breadth. Area is?,128 sq m,144 sq m,112 sq m,160 sq m,A
+159,Logical Reasoning,Logical,Total number of prime numbers between 1 and 50?,12,13,14,15,D
+160,Logical Reasoning,Logical,"If South-East becomes North, North-East becomes West — what does South become?",North-West,North-East,South-East,South-West,A
+161,Verbal Reasoning,Verbal Analogy,Algorithm : Program :: Blueprint : ?,Architect,Building,Design,Construction,B
+162,Verbal Reasoning,Verbal Analogy,Byte : Kilobyte :: Second : ?,Millisecond,Minute,Hour,Microsecond,B
+163,Verbal Reasoning,Verbal Analogy,Variable : Memory :: File : ?,Storage,Folder,Data,Hard Disk,A
+164,Verbal Reasoning,Verbal Analogy,Keyboard : Input :: Monitor : ?,Processing,Output,Storage,Control,B
+165,Verbal Reasoning,Verbal Analogy,Error : Debugging :: Disease : ?,Doctor,Diagnosis,Treatment,Medicine,C
+166,Verbal Reasoning,Verbal Analogy,HashMap : Key-Value :: Stack : ?,Index-Value,LIFO,FIFO,Linked List,B
+167,Verbal Reasoning,Verbal Analogy,Client : Server :: Request : ?,Response,Database,API,Connection,A
+168,Verbal Reasoning,Synonyms,Choose the word closest in meaning to ROBUST:,Fragile,Sturdy,Hollow,Meek,B
+169,Verbal Reasoning,Synonyms,Choose the word closest in meaning to VERBOSE:,Concise,Wordy,Silent,Precise,B
+170,Verbal Reasoning,Synonyms,Choose the word closest in meaning to AMBIGUOUS:,Clear,Vague,Precise,Definite,B
+171,Verbal Reasoning,Synonyms,Choose the word closest in meaning to DILIGENT:,Lazy,Hardworking,Careless,Slow,B
+172,Verbal Reasoning,Synonyms,Choose the word closest in meaning to PRAGMATIC:,Idealistic,Practical,Theoretical,Romantic,B
+173,Verbal Reasoning,Antonyms,Choose the word OPPOSITE in meaning to ESCALATE:,Increase,Rise,Reduce,Extend,C
+174,Verbal Reasoning,Antonyms,Choose the word OPPOSITE in meaning to TRANSPARENT:,Clear,Obvious,Opaque,Visible,C
+175,Verbal Reasoning,Antonyms,Choose the word OPPOSITE in meaning to COHERENT:,Logical,Confused,Organized,Clear,B
+176,Verbal Reasoning,Antonyms,Choose the word OPPOSITE in meaning to PROLIFIC:,Productive,Barren,Creative,Fertile,B
+177,Verbal Reasoning,Antonyms,Choose the word OPPOSITE in meaning to METICULOUS:,Careful,Precise,Careless,Detailed,C
+178,Verbal Reasoning,Fill in the Blanks,"The new software ______ the entire workflow, reducing manual errors significantly.",complicated,streamlined,disrupted,ignored,B
+179,Verbal Reasoning,Fill in the Blanks,The analyst was asked to ______ the dataset before running the model.,ignore,preprocess,delete,copy,B
+180,Verbal Reasoning,Fill in the Blanks,"Despite several setbacks, the team remained ______ and completed the project on time.",demoralized,resilient,indifferent,oblivious,B
+181,Verbal Reasoning,Fill in the Blanks,"The manager's decision was ______ by all team members, leading to a smooth execution.",opposed,ratified,disputed,questioned,B
+182,Verbal Reasoning,Fill in the Blanks,"Good code should be ______ — easy to read, maintain, and extend.",verbose,modular,complex,nested,B
+183,Verbal Reasoning,Fill in the Blanks,A ______ approach to problem-solving involves breaking it into smaller sub-problems.,recursive,brute-force,random,sequential,A
+184,Verbal Reasoning,Sentence Correction,Find the correct sentence:,The datas are ready,The data are ready,The data is ready,The datas is ready,C
+185,Verbal Reasoning,Sentence Correction,Find the correct sentence:,Each of the employees have completed their tasks,Each of the employees has completed their task,Each employees have completed their tasks,Each employees has completed its task,B
+186,Verbal Reasoning,Sentence Correction,Find the correct sentence:,Neither of the options are correct,Neither of the options is correct,Neither of the option are correct,None of the options are correct,B
+187,Verbal Reasoning,Sentence Correction,Find the correct sentence:,The project was completed in time which everyone appreciated,"The project, which everyone appreciated, was completed in time",The project completed in time which everyone appreciated,The project was in time completed and everyone appreciated,B
+188,Verbal Reasoning,Reading Comprehension,"Agile methodology promotes iterative development, collaboration, and flexibility. Unlike Waterfall which follows a fixed sequential plan, Agile adapts to changing requirements. What is NOT true about Agile?",It promotes collaboration,It is inflexible to change,It uses iterative development,It differs from Waterfall,B
+189,Verbal Reasoning,Reading Comprehension,"In machine learning, overfitting occurs when a model learns training data too well, including noise, and performs poorly on new data. The main solution is regularization or using more data. What is overfitting?",Model performs well on new data,Model learns noise from training data,Model is under-trained,Model uses too little data,B
+190,Verbal Reasoning,Reading Comprehension,"Cloud computing delivers computing services — servers, storage, databases, networking — over the internet, offering faster innovation and flexible resources. What does cloud computing use to deliver services?",Local servers only,The Internet,Intranet only,Bluetooth,B
+191,Verbal Reasoning,Reading Comprehension,"A deadlock occurs when two processes each hold a resource the other needs and neither can proceed. To prevent deadlock, one strategy is to ensure processes request all resources at once. What causes a deadlock?",Processes releasing too many resources,Circular resource waiting between processes,Processes running too fast,Too much available memory,B
+192,Verbal Reasoning,Para Jumble,Arrange sentences: P='It then processes the data' Q='The user submits a form' R='The server sends a response' S='The browser displays the result' in correct order:,Q P R S,P Q R S,S R P Q,Q R P S,A
+193,Verbal Reasoning,Para Jumble,Arrange: P='The bug was fixed' Q='The tester reported a bug' R='The developer was assigned' S='Regression tests passed' in correct order:,Q R P S,R Q P S,P Q R S,S P Q R,A
+194,Verbal Reasoning,Word Usage,Choose the correct word: The developer needs to ______ the function before calling it.,declare,delete,deploy,design,A
+195,Verbal Reasoning,Word Usage,Choose the correct word: The database query returned a ______ set of records.,null,duplicate,redundant,result,D
+196,Verbal Reasoning,Word Usage,Choose the correct word: The system will ______ if the input exceeds the buffer size.,deploy,overflow,underflow,compile,B
+197,Verbal Reasoning,Word Usage,Choose the correct word: A variable declared inside a function has ______ scope.,global,local,public,static,B
+198,Verbal Reasoning,Technical Vocabulary,What does API stand for?,Application Programming Interface,Automated Process Integration,Application Protocol Interface,Advanced Programming Interface,A
+199,Verbal Reasoning,Technical Vocabulary,What does CRUD stand for in database operations?,Create Read Update Delete,Copy Read Upload Download,Create Restore Update Deploy,Copy Rename Undo Delete,A
+200,Verbal Reasoning,Technical Vocabulary,What does ETL stand for in data engineering?,Extract Transform Load,Execute Test Launch,Export Transfer Link,Evaluate Test Load,A
+201,Verbal Reasoning,Technical Vocabulary,"In agile methodology, a short work cycle is called a?",Sprint,Phase,Module,Version,A
+202,Verbal Reasoning,Technical Vocabulary,What does OOP stand for?,Object Oriented Programming,Open Object Processing,Ordered Object Parsing,Online Operational Program,A
+203,Verbal Reasoning,Logical Verbal,Statement: 'All managers are leaders. John is a leader.' Conclusion: John is a manager.,Definitely true,Possibly true,Definitely false,Cannot say,B
+204,Verbal Reasoning,Logical Verbal,Statement: 'No software engineer codes in natural language.' Sam codes in natural language. Is Sam a software engineer?,Yes,No,Cannot determine,Possibly,B
+205,Verbal Reasoning,Logical Verbal,"If 'faster than' is transitive and A is faster than B, B is faster than C, then?",C is faster than A,A is faster than C,A equals C,Cannot determine,B
+206,Verbal Reasoning,Inference,"Sales in Q1=50K, Q2=70K, Q3=65K, Q4=80K. Which inference is valid?",Sales declined each quarter,Q3 had highest sales,Annual trend is generally upward,Q1 and Q4 are equal,C
+207,Verbal Reasoning,Inference,A company's employee satisfaction score went from 6.2 to 7.8 after introducing remote work. The most likely conclusion is?,Remote work is the only factor,Remote work contributed to higher satisfaction,Satisfaction will always increase,Previous score was due to poor management,B
+208,Verbal Reasoning,Inference,A dataset shows 90% of bug reports come from 10% of the code modules. Best action?,Rewrite all code,Focus testing on that 10%,Ignore the 10%,Hire more testers,B
+209,Verbal Reasoning,Verbal,The word 'cache' in computing refers to?,A type of database,Temporary fast-access storage,A programming language,A network protocol,B
+210,Verbal Reasoning,Verbal,The term 'latency' in systems means?,Data storage capacity,Delay in data transmission,Processing power,Memory size,B
+211,Verbal Reasoning,Verbal,Identify the correctly spelled word:,Algorigthm,Algorithm,Algorythm,Algorithmm,B
+212,Verbal Reasoning,Verbal,A process that calls itself is called?,Iteration,Recursion,Compilation,Abstraction,B
+213,Verbal Reasoning,Verbal,Which word fits: 'The function should ______ the data and return a cleaned version.',ignore,validate,delete,replicate,B
+214,Verbal Reasoning,Verbal,Choose the grammatically correct option for a professional email subject line:,re: meeting,Re: Project Update – Q3 Review,project update,meeting tmrw??,B
+215,Verbal Reasoning,Verbal,Which is the most concise way to say 'due to the fact that'?,because,on account of,in view of the fact that,as a result of,A
+216,Verbal Reasoning,Verbal,SQL is best described as a?,General purpose programming language,Query language for databases,Markup language,Low-level language,B
+217,Verbal Reasoning,Verbal,The process of finding and fixing errors in code is called?,Compiling,Debugging,Deploying,Refactoring,B
+218,Verbal Reasoning,Verbal,A flowchart is used to represent?,Database schema,Algorithm or process flow,Network topology,File structure,B
+219,Verbal Reasoning,Verbal,"In project management, a bottleneck refers to?",A milestone,A constraint that limits overall throughput,A budget issue,A team meeting,B
+220,Verbal Reasoning,Verbal,The principle of writing code that others can easily read and understand is called?,Code obfuscation,Code readability,Code compression,Code encryption,B
+221,Technical / CS Concepts,Data Structures,Time complexity of binary search in a sorted array of n elements?,O(n),O(log n),O(n log n),O(1),B
+222,Technical / CS Concepts,Data Structures,Which data structure uses LIFO order?,Queue,Stack,Linked List,Tree,B
+223,Technical / CS Concepts,Data Structures,Which data structure uses FIFO order?,Stack,Queue,Hash Table,Graph,B
+224,Technical / CS Concepts,Data Structures,"In a min-heap, the root always contains?",The maximum element,The minimum element,The median element,A random element,B
+225,Technical / CS Concepts,Data Structures,Time complexity of inserting an element into a sorted linked list of n elements?,O(1),O(log n),O(n),O(n log n),C
+226,Technical / CS Concepts,Data Structures,Which data structure is best for implementing a browser's back button?,Queue,Stack,Heap,Graph,B
+227,Technical / CS Concepts,Data Structures,A Binary Search Tree with n nodes has a height of at most?,log n,n,n/2,n²,B
+228,Technical / CS Concepts,Data Structures,Which traversal visits nodes in Left-Root-Right order?,Preorder,Inorder,Postorder,Level-order,B
+229,Technical / CS Concepts,Data Structures,An array of 10 elements starts at address 200 with each element taking 4 bytes. Address of element at index 5?,220,224,220,240,A
+230,Technical / CS Concepts,Data Structures,Which data structure is best for LRU cache implementation?,Array,Stack,HashMap + Doubly Linked List,Queue,C
+231,Technical / CS Concepts,Algorithms,Which sorting algorithm has worst-case O(n log n)?,Bubble Sort,Insertion Sort,Merge Sort,Quick Sort,C
+232,Technical / CS Concepts,Algorithms,Bubble sort time complexity in worst case?,O(n),O(n log n),O(n²),O(log n),C
+233,Technical / CS Concepts,Algorithms,Dijkstra's algorithm is used for?,Minimum spanning tree,Shortest path in weighted graph,Sorting,Graph coloring,B
+234,Technical / CS Concepts,Algorithms,Dynamic programming solves problems by?,Dividing into independent subproblems,Storing and reusing subproblem solutions,Randomized guessing,Greedy local choices,B
+235,Technical / CS Concepts,Algorithms,Which technique is used in QuickSort?,Dynamic Programming,Divide and Conquer,Greedy,Backtracking,B
+236,Technical / CS Concepts,Algorithms,The recurrence T(n) = 2T(n/2) + n solves to?,O(n),O(n log n),O(n²),O(log n),B
+237,Technical / CS Concepts,Algorithms,Which algorithm is optimal for finding MST?,BFS,DFS,Kruskal's / Prim's,Dijkstra's,C
+238,Technical / CS Concepts,Algorithms,Space complexity of recursive DFS on a graph with V vertices and E edges?,O(V+E),O(V),O(E),O(1),B
+239,Technical / CS Concepts,OOP,Which OOP principle hides implementation details from users?,Inheritance,Encapsulation,Polymorphism,Abstraction,D
+240,Technical / CS Concepts,OOP,A child class inheriting from parent class is an example of?,Polymorphism,Abstraction,Inheritance,Encapsulation,C
+241,Technical / CS Concepts,OOP,Overloading a method with different parameters in the same class is?,Runtime Polymorphism,Compile-time Polymorphism,Inheritance,Abstraction,B
+242,Technical / CS Concepts,OOP,Which keyword prevents inheritance in Java?,static,private,final,abstract,C
+243,Technical / CS Concepts,OOP,An interface in Java can contain?,Only abstract methods,Abstract methods and default methods (Java 8+),Only concrete methods,Fields with values,B
+244,Technical / CS Concepts,OOP,Which design pattern creates objects without specifying exact class?,Singleton,Factory,Observer,Decorator,B
+245,Technical / CS Concepts,OOP,The Singleton pattern ensures?,Multiple instances,Only one instance of a class,Fast object creation,Interface implementation,B
+246,Technical / CS Concepts,SQL,Which SQL command retrieves data from a table?,INSERT,UPDATE,SELECT,DELETE,C
+247,Technical / CS Concepts,SQL,Which JOIN returns all rows from the left table and matching rows from right?,INNER JOIN,RIGHT JOIN,LEFT JOIN,FULL OUTER JOIN,C
+248,Technical / CS Concepts,SQL,What does GROUP BY do in SQL?,Sorts data,Filters rows,Groups rows with same values for aggregate functions,Joins tables,C
+249,Technical / CS Concepts,SQL,Which SQL clause filters results after GROUP BY?,WHERE,ORDER BY,HAVING,FILTER,C
+250,Technical / CS Concepts,SQL,What is the result of: SELECT COUNT(*) FROM employees WHERE salary > 50000?,Returns all employee names,Returns number of employees with salary > 50000,Returns total salary,Returns employee IDs,B
+251,Technical / CS Concepts,SQL,Which normal form eliminates transitive dependencies?,1NF,2NF,3NF,BCNF,C
+252,Technical / CS Concepts,SQL,What does PRIMARY KEY constraint do?,Allows NULL values,Allows duplicates,Uniquely identifies each row,Links two tables,C
+253,Technical / CS Concepts,SQL,Which SQL command removes all rows from a table but keeps its structure?,DROP,DELETE,TRUNCATE,REMOVE,C
+254,Technical / CS Concepts,SQL,What does DISTINCT keyword do in SQL?,Sorts results,Removes duplicate rows from result,Counts unique values,Filters by condition,B
+255,Technical / CS Concepts,SQL,Write a query to find the second highest salary from Employees table. Which approach works?,SELECT MAX(salary) FROM Employees,SELECT salary FROM Employees ORDER BY salary DESC LIMIT 1 OFFSET 1,SELECT MIN(salary) FROM Employees,SELECT TOP salary FROM Employees,B
+256,Technical / CS Concepts,Operating Systems,Which scheduling algorithm may cause starvation?,Round Robin,FCFS,Priority Scheduling,Shortest Job First,C
+257,Technical / CS Concepts,Operating Systems,A process vs a thread — key difference?,Threads share memory; processes have separate memory,Processes share memory; threads do not,Threads are slower,Processes cannot run concurrently,A
+258,Technical / CS Concepts,Operating Systems,What is a semaphore used for?,Memory allocation,Process synchronization,File management,CPU scheduling,B
+259,Technical / CS Concepts,Operating Systems,Virtual memory allows?,Running programs larger than physical RAM,Faster CPU execution,Better GPU performance,Persistent storage,A
+260,Technical / CS Concepts,Operating Systems,Page replacement algorithm that replaces the page not used for longest time?,FIFO,LRU,Optimal,Clock,B
+261,Technical / CS Concepts,Networks,TCP vs UDP — main difference?,TCP is faster,UDP provides reliable delivery,TCP provides reliable delivery; UDP does not,UDP is connection-oriented,C
+262,Technical / CS Concepts,Networks,HTTP operates at which OSI layer?,Layer 3 (Network),Layer 4 (Transport),Layer 7 (Application),Layer 2 (Data Link),C
+263,Technical / CS Concepts,Networks,What is a RESTful API?,A database protocol,An architectural style for web services using HTTP,A type of SQL query,A cloud service,B
+264,Technical / CS Concepts,Networks,What does DNS stand for and do?,Data Network System – stores data,Domain Name System – translates domain names to IPs,Dynamic Network Service – manages IP,Data Naming Service – labels servers,B
+265,Technical / CS Concepts,Networks,Status code 404 means?,Server error,Unauthorized,Resource not found,Request successful,C
+266,Technical / CS Concepts,Networks,Status code 200 means?,Resource not found,Server error,Request successful,Redirect,C
+267,Technical / CS Concepts,Programming,What is the output of: print(type(3/2)) in Python 3?,<class 'int'>,<class 'float'>,<class 'str'>,Error,B
+268,Technical / CS Concepts,Programming,"What is the result of: [1,2,3] + [4,5,6] in Python?","[5,7,9]","[1,2,3,4,5,6]",Error,"[[1,2,3],[4,5,6]]",B
+269,Technical / CS Concepts,Programming,Which Python data structure is immutable?,List,Dictionary,Tuple,Set,C
+270,Technical / CS Concepts,Programming,What does the 'self' keyword represent in Python class methods?,The class itself,The current instance of the class,A global variable,A static method,B
+271,Technical / CS Concepts,Programming,Big O notation O(1) means?,Linear time,Logarithmic time,Constant time,Quadratic time,C
+272,Technical / CS Concepts,Programming,What does 'try-except' block do in programming?,Optimizes code,Handles runtime exceptions,Creates a loop,Declares variables,B
+273,Technical / CS Concepts,Programming,A function that takes another function as argument is called?,Recursive function,Lambda function,Higher-order function,Anonymous function,C
+274,Technical / CS Concepts,Programming,"In Python, list comprehension [x**2 for x in range(5)] gives?","[1,4,9,16,25]","[0,1,4,9,16]","[0,1,2,3,4]","[1,2,3,4,5]",B
+275,Technical / CS Concepts,Programming,What is the purpose of a constructor (__init__) in Python?,Destroy an object,Initialize object attributes,Define class variables,Import modules,B
+276,Technical / CS Concepts,Programming,Which Python built-in function returns the length of an object?,size(),count(),len(),length(),C
+277,Technical / CS Concepts,Data Analysis,"In a dataset, the value that appears most frequently is called?",Mean,Median,Mode,Range,C
+278,Technical / CS Concepts,Data Analysis,"If a dataset has outliers, which measure of central tendency is more robust?",Mean,Median,Mode,Standard Deviation,B
+279,Technical / CS Concepts,Data Analysis,Correlation coefficient of –1 means?,No correlation,Perfect positive correlation,Perfect negative correlation,Weak correlation,C
+280,Technical / CS Concepts,Data Analysis,Which chart type is best for showing a trend over time?,Pie chart,Bar chart,Line chart,Scatter plot,C
+281,Technical / CS Concepts,Data Analysis,A p-value less than 0.05 typically means?,Accept null hypothesis,Reject null hypothesis,No statistical significance,Data is corrupted,B
+282,Technical / CS Concepts,Data Analysis,Which SQL aggregate function calculates the average?,SUM(),COUNT(),AVG(),MAX(),C
+283,Technical / CS Concepts,Data Analysis,"In a box plot, the middle line represents?",Mean,Mode,Median,Standard Deviation,C
+284,Technical / CS Concepts,Data Analysis,What is a foreign key in a database?,The primary identifier of a table,A key that links to a primary key in another table,A key with no duplicates,An index key,B
+285,Technical / CS Concepts,Data Analysis,Which Python library is most commonly used for data manipulation?,NumPy,Matplotlib,Pandas,Scikit-learn,C
+286,Technical / CS Concepts,Data Analysis,What does 'df.dropna()' do in pandas?,Drops all rows,Drops columns with NA values,Drops rows with missing values,Fills NA with 0,C
+287,Technical / CS Concepts,System Design,Which approach improves scalability by dividing data across multiple databases?,Caching,Sharding,Indexing,Normalization,B
+288,Technical / CS Concepts,System Design,What is the purpose of a load balancer?,Store data,Distribute incoming requests across multiple servers,Encrypt data,Monitor CPU usage,B
+289,Technical / CS Concepts,System Design,What is microservices architecture?,Monolithic application in one codebase,Application built as independent small services,A design pattern for databases,A testing methodology,B
+290,Technical / CS Concepts,System Design,CAP theorem states a distributed system can guarantee at most how many of its properties simultaneously?,1,2,3,All 3 depending on design,B
+291,Technical / CS Concepts,System Design,"What is the purpose of a message queue (e.g. Kafka, RabbitMQ)?",Direct database access,Decouple services by passing messages asynchronously,Speed up SQL queries,Replace REST APIs,B
+292,Technical / CS Concepts,System Design,Which caching strategy writes data to cache and database simultaneously?,Cache-aside,Write-through,Write-back,Read-through,B
+293,Technical / CS Concepts,DevOps,What does 'git merge' do?,Deletes a branch,Combines two branches,Creates a new branch,Reverts a commit,B
+294,Technical / CS Concepts,DevOps,What is CI/CD?,Customer Integration / Customer Delivery,Continuous Integration / Continuous Delivery,Code Integration / Code Deployment,Central Integration / Central Deployment,B
+295,Technical / CS Concepts,DevOps,Which command undoes the last git commit locally without losing changes?,git revert,git reset HEAD~1,git delete commit,git undo,B
+296,Technical / CS Concepts,DevOps,Docker containers are most useful for?,Writing code,Ensuring consistent environments across development and production,Managing databases,Testing UI,B
+297,Technical / CS Concepts,ML Basics,Supervised learning requires?,Unlabeled data,Labeled training data,No data,Random initialization,B
+298,Technical / CS Concepts,ML Basics,Which algorithm is used for classification and regression?,K-means,Decision Tree,PCA,Apriori,B
+299,Technical / CS Concepts,ML Basics,Overfitting can be reduced by?,Adding more parameters,Increasing model complexity,Using regularization or more training data,Removing training data,C
+300,Technical / CS Concepts,ML Basics,What does the 'confusion matrix' measure?,Unsupervised clustering quality,"Classification model performance using TP, FP, TN, FN",Regression accuracy,Feature importance,B
+301,Technical / CS Concepts,ML Basics,"In k-means clustering, k represents?",Number of features,Number of clusters,Number of iterations,Number of data points,B
+302,Technical / CS Concepts,ML Basics,Which metric measures model accuracy for imbalanced datasets better than accuracy?,Mean Squared Error,Precision-Recall / F1 Score,R² score,Variance,B
+303,Technical / CS Concepts,ML Basics,What is 'feature engineering'?,Building new features from raw data to improve model,Selecting the right algorithm,Tuning hyperparameters,Cleaning missing values only,A
+304,Technical / CS Concepts,Agile / SDLC,"In Scrum, who is responsible for maintaining the product backlog?",Scrum Master,Development Team,Product Owner,Stakeholder,C
+305,Technical / CS Concepts,Agile / SDLC,What is the purpose of a sprint retrospective?,Plan the next sprint,Review product increment,Reflect and improve team process,Demo to stakeholders,C
+306,Technical / CS Concepts,Agile / SDLC,Which SDLC model works best for projects with frequently changing requirements?,Waterfall,V-Model,Agile,Spiral,C
+307,Technical / CS Concepts,Agile / SDLC,"In Agile, a 'user story' follows which format?",As a [role] I want [feature] so that [benefit],I want [feature],[role] needs [feature],Feature: [name] Benefit: [result],A
+308,Technical / CS Concepts,Technical Misc,Which data format is most commonly used in REST APIs?,XML,CSV,JSON,Binary,C
+309,Technical / CS Concepts,Technical Misc,What is the purpose of indexing in a database?,Encrypt data,Speed up query performance,Normalize tables,Delete duplicates,B
+310,Technical / CS Concepts,Technical Misc,What is the difference between == and === in JavaScript?,Both are identical,== compares value only; === compares value and type,=== compares value only,== is for numbers only,B
