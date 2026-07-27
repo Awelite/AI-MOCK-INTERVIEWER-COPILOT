@@ -664,7 +664,7 @@ timeline
 <br/>
 <sub>🎖️ Team Lead</sub>
 <br/><br/>
-<sub>Architecture · Orchestration · ML Pipeline<br/>Full-Stack Integration</sub>
+<sub>Architecture · Orchestration · ML Pipeline . ATS ML Model . Coding Round Sandbox <br/>Full-Stack Integration</sub>
 <br/><br/>
 </td>
 <td align="center" width="200">
@@ -691,7 +691,7 @@ timeline
 <br/>
 <sub>👩‍💻 Developer</sub>
 <br/><br/>
-<sub>ML Models · NLP Scoring<br/>Semantic Engine</sub>
+<sub>Rule Based Models · NLP Scoring<br/>Semantic Engine</sub>
 <br/><br/>
 </td>
 <td align="center" width="200">
@@ -700,7 +700,7 @@ timeline
 <br/>
 <sub>👩‍💻 Developer</sub>
 <br/><br/>
-<sub>Testing · QA · Documentation<br/>Data Curation</sub>
+<sub>Testing · QGen Model .  QA · Documentation<br/>Data Curation</sub>
 <br/><br/>
 </td>
 </tr>
