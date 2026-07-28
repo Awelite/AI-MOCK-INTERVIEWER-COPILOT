@@ -117,7 +117,10 @@ class HRSubmitRequest(BaseModel):
 # JUDGE0 CONFIG (mirrors existing /coding/submit logic)
 # ─────────────────────────────────────────────────────────────────────────────
 
-JUDGE0_URL = "http://localhost:2358/submissions?base64_encoded=false&wait=true"
+from config import JUDGE0_URL, UPLOADS_DIR
+# We don't overwrite JUDGE0_URL here, just use the imported one.
+# Wait, JUDGE0_URL in config doesn't have the query string.
+_JUDGE0_URL = f"{JUDGE0_URL}/submissions?base64_encoded=false&wait=true"
 
 LANGUAGE_MAP = {
     "python": 71,
@@ -135,7 +138,7 @@ adapter = HTTPAdapter(max_retries=retry_strategy)
 judge0_session.mount("http://", adapter)
 judge0_session.mount("https://", adapter)
 
-UPLOADS_DIR = "uploads"
+# UPLOADS_DIR is imported from config
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -435,7 +438,7 @@ def run_coding_code(body: CodingRunRequest):
     start_req = time.time()
     try:
         resp = judge0_session.post(
-            "http://localhost:2358/submissions?base64_encoded=true&wait=true",
+            f"{JUDGE0_URL}/submissions?base64_encoded=true&wait=true",
             json={
                 "source_code": base64.b64encode(body.code.encode("utf-8")).decode("ascii"),
                 "language_id": language_id,

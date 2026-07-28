@@ -113,10 +113,12 @@ class ModuleRegistry:
             CodingFinalReport()
         )
 
+        import os
+        from config import PROJECT_ROOT
         self.aptitude_engine = MCQEngine(
             [
-                "aptitude_round/datasets/MNC_Aptitude_Questions.csv",
-                "aptitude_round/datasets/Logical_Reasoning_Questions.csv"
+                os.path.join(PROJECT_ROOT, "aptitude_round", "datasets", "MNC_Aptitude_Questions.csv"),
+                os.path.join(PROJECT_ROOT, "aptitude_round", "datasets", "Logical_Reasoning_Questions.csv")
             ]
         )
 

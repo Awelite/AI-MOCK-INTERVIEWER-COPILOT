@@ -34,8 +34,9 @@ class Judge0Client:
 
         for attempt in range(3):
             try:
+                from config import JUDGE0_URL
                 response = self.session.post(
-                    "http://localhost:2358/submissions?wait=true",
+                    f"{JUDGE0_URL}/submissions?wait=true",
                     json={
                         "source_code": code,
                         "language_id": language_id,

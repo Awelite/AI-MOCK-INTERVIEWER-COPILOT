@@ -7,10 +7,8 @@ from sqlalchemy.ext.declarative import (
 from sqlalchemy.orm import sessionmaker
 
 
-DATABASE_URL = (
+from config import DATABASE_URL
 
-    "sqlite:///./ai_interview.db"
-)
 
 
 engine = create_engine(

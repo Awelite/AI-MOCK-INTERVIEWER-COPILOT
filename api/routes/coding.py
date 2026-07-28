@@ -17,11 +17,12 @@ router = APIRouter(prefix="/coding", tags=["Coding"])
 # ---------------- DB CONNECTION ---------------- #
 
 def get_db():
+    from config import DB_HOST, DB_USER, DB_PASSWORD, DB_NAME
     return mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password=os.getenv("MYSQL_PASSWORD"),  # safer
-        database="ai_interviewer"
+        host=DB_HOST,
+        user=DB_USER,
+        password=DB_PASSWORD,
+        database=DB_NAME
     )
 
 # ---------------- GET PROBLEM ---------------- #
@@ -92,7 +93,11 @@ def run_code(payload: dict):
         stdin_data = payload.get("stdin") or PROBLEM_TEST_INPUTS.get(problem_slug, "")
         print(f"[DEBUG] problem_slug={problem_slug!r} | stdin_data={stdin_data!r}")
 
-        judge0_url = "http://localhost:2358/submissions?base64_encoded=true&wait=true"
+        from config import JUDGE0_URL
+        # Wait, JUDGE0_URL is just base, need to append queries
+        # But JUDGE0_URL might be already full URL? No, config has:
+        # JUDGE0_URL = "http://localhost:2358" 
+        judge0_url = f"{JUDGE0_URL}/submissions?base64_encoded=true&wait=true"
 
         response = requests.post(
             judge0_url,
@@ -206,7 +211,7 @@ def submit_solution(payload: dict):
             stdin = test["input_data"]
 
             response = requests.post(
-                "http://localhost:2358/submissions?base64_encoded=false&wait=true",
+                f"{JUDGE0_URL}/submissions?base64_encoded=false&wait=true",
                 json={
                     "source_code": code,
                     "language_id": language_id,
