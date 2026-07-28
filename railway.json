@@ -13,7 +13,10 @@
       "qgen/**",
       "aptitude_round/**",
       "config.py",
-      "requirements.txt"
+      "requirements.txt",
+      "Dockerfile",
+      "railway.json",
+      "Procfile"
     ]
   },
   "deploy": {
