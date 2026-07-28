@@ -1,0 +1,26 @@
+{
+  "$schema": "https://railway.app/railway.schema.json",
+  "build": {
+    "builder": "DOCKERFILE",
+    "dockerfilePath": "Dockerfile",
+    "watchPatterns": [
+      "api/**",
+      "ats/**",
+      "coding_round/**",
+      "hr_round/**",
+      "module8/**",
+      "orchestrator/**",
+      "qgen/**",
+      "aptitude_round/**",
+      "config.py",
+      "requirements.txt"
+    ]
+  },
+  "deploy": {
+    "startCommand": "uvicorn api.main:app --host 0.0.0.0 --port $PORT",
+    "healthcheckPath": "/docs",
+    "healthcheckTimeout": 100,
+    "restartPolicyType": "ON_FAILURE",
+    "restartPolicyMaxRetries": 3
+  }
+}
