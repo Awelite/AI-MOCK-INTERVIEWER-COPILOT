@@ -133,10 +133,10 @@ mdurl==0.1.2
 MarkupSafe==3.0.2
 
 # ----------------------------
-# NetworkX  (FIXED: 3.6.1 requires Python >=3.11)
-# 3.5 is the last version that supports Python 3.10
+# NetworkX  (FIXED: 3.5+ all require Python >=3.11)
+# 3.4.2 is the last release that supports Python 3.10
 # ----------------------------
-networkx==3.5
+networkx==3.4.2
 
 # ----------------------------
 # distro (huggingface_hub dep)
