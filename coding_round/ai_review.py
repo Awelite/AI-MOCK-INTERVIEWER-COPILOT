@@ -4,10 +4,18 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-client = OpenAI(
-    base_url="https://openrouter.ai/api/v1",
-    api_key=os.getenv("OPENROUTER_API_KEY"),
-)
+# Lazy-loaded — created on first call, not at import time.
+_client = None
+
+def _get_client():
+    global _client
+    if _client is None:
+        print("[ai_review] Creating OpenAI client (lazy)...")
+        _client = OpenAI(
+            base_url="https://openrouter.ai/api/v1",
+            api_key=os.getenv("OPENROUTER_API_KEY"),
+        )
+    return _client
 
 def generate_ai_review(problem, code, verdict):
     try:
@@ -37,7 +45,7 @@ Provide:
 Keep response professional and concise.
 """
 
-        completion = client.chat.completions.create(
+        completion = _get_client().chat.completions.create(
             model="nvidia/nemotron-nano-12b-v2-vl:free",
             messages=[
                 {

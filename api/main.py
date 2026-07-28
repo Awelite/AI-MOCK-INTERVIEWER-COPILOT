@@ -1,41 +1,57 @@
+import time
+import sys
+
+_STARTUP_T0 = time.perf_counter()
+print(f"[main] Python {sys.version} – import chain starting …", flush=True)
+
 from fastapi import FastAPI
 
 from fastapi.middleware.cors import (
     CORSMiddleware
 )
 
+print(f"[main] FastAPI imported ({time.perf_counter()-_STARTUP_T0:.2f}s)", flush=True)
+
 from api.routes.coding import (
     router as coding_router
 )
+print(f"[main] coding router imported ({time.perf_counter()-_STARTUP_T0:.2f}s)", flush=True)
 
 from api.routes.candidate import (
     router as candidate_router
 )
+print(f"[main] candidate router imported ({time.perf_counter()-_STARTUP_T0:.2f}s)", flush=True)
 
 from api.routes.evaluate import (
     router as evaluate_router
 )
+print(f"[main] evaluate router imported ({time.perf_counter()-_STARTUP_T0:.2f}s)", flush=True)
 
 from api.routes.analytics import (
     router as analytics_router
 )
+print(f"[main] analytics router imported ({time.perf_counter()-_STARTUP_T0:.2f}s)", flush=True)
 
 from api.routes.recruiter import (
     router as recruiter_router
 )
+print(f"[main] recruiter router imported ({time.perf_counter()-_STARTUP_T0:.2f}s)", flush=True)
 
 from api.routes.executive import (
     router as executive_router
 )
+print(f"[main] executive router imported ({time.perf_counter()-_STARTUP_T0:.2f}s)", flush=True)
 
 # ── Phase 8C: Session-based interview router ────────
 from api.routes.interview import (
     router as interview_router
 )
+print(f"[main] interview router imported ({time.perf_counter()-_STARTUP_T0:.2f}s)", flush=True)
 
 from api.session_store import (
     cleanup_expired_sessions
 )
+print(f"[main] session_store imported ({time.perf_counter()-_STARTUP_T0:.2f}s)", flush=True)
 
 
 app = FastAPI(
@@ -71,8 +87,11 @@ app.add_middleware(
 @app.on_event("startup")
 async def on_startup():
     """Evict any stale sessions from a prior run."""
+    t0 = time.perf_counter()
+    print("[startup] on_startup() called …", flush=True)
     evicted = cleanup_expired_sessions(ttl_hours=2)
-    print(f"[startup] Cleaned {evicted} expired sessions.")
+    print(f"[startup] Cleaned {evicted} expired sessions.", flush=True)
+    print(f"[startup] Done in {time.perf_counter()-t0:.2f}s – app ready.", flush=True)
 
 
 # ── REGISTER ROUTERS ────────────────────────────────

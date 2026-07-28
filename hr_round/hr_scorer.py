@@ -20,9 +20,17 @@ from module8.transformer.semantic_engine import (
 
 import hr_round.feedback_generator as fg
 
-semantic_engine = (
-    SemanticEngine()
-)
+# Lazy-loaded — the transformer model is only initialised the first time
+# an HR answer is evaluated, not at import time.
+_semantic_engine = None
+
+def _get_semantic_engine():
+    global _semantic_engine
+    if _semantic_engine is None:
+        print("[hr_scorer] Loading SemanticEngine (lazy)...")
+        _semantic_engine = SemanticEngine()
+    return _semantic_engine
+
 def evaluate_answer(
     text,
     ideal_answer=""
@@ -42,7 +50,7 @@ def evaluate_answer(
 
     if ideal_answer:
         semantic = (
-            semantic_engine
+            _get_semantic_engine()
             .compare_answers(
                 ideal_answer,
                 text

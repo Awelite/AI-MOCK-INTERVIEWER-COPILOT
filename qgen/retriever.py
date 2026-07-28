@@ -2,13 +2,6 @@ import os
 import numpy as np
 import pandas as pd
 
-from sentence_transformers import (
-    SentenceTransformer
-)
-
-from sklearn.metrics.pairwise import (
-    cosine_similarity
-)
 
 
 BASE_DIR = os.path.dirname(__file__)
@@ -29,21 +22,26 @@ EMBEDDINGS_PATH = os.path.join(
 )
 
 
-print(
-    "Loading Question Retriever..."
-)
+# ── Lazy-load state ──────────────────────────────────────────────────────────
+# Nothing is loaded at import time. First call to _get_retriever_state()
+# initialises everything. Keeps startup instant.
+# ─────────────────────────────────────────────────────────────────────────────
 
-embedder = SentenceTransformer(
-    "all-MiniLM-L6-v2"
-)
+_embedder   = None
+_df_q       = None
+_embeddings = None
 
-df_q = pd.read_csv(
-    CSV_PATH
-)
 
-embeddings = np.load(
-    EMBEDDINGS_PATH
-)
+def _get_retriever_state():
+    global _embedder, _df_q, _embeddings
+    if _embedder is None:
+        print("[qgen] Loading Question Retriever (lazy)...")
+        from sentence_transformers import SentenceTransformer
+        _embedder   = SentenceTransformer("all-MiniLM-L6-v2")
+        _df_q       = pd.read_csv(CSV_PATH)
+        _embeddings = np.load(EMBEDDINGS_PATH)
+        print("[qgen] Question Retriever loaded.")
+    return _embedder, _df_q, _embeddings
 
 
 def get_skill_query(
@@ -76,10 +74,14 @@ def get_top_questions_for_skill(
         difficulty
     )
 
+    embedder, df_q, embeddings = _get_retriever_state()
+
     query_emb = embedder.encode(
         [query],
         convert_to_numpy=True
     )
+
+    from sklearn.metrics.pairwise import cosine_similarity
 
     sims = cosine_similarity(
         query_emb,

@@ -1,4 +1,3 @@
-from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
 
@@ -7,6 +6,9 @@ class SemanticEngine:
     def __init__(self):
 
         print("Loading transformer model...")
+
+        # Import lazily — the library itself is slow to import
+        from sentence_transformers import SentenceTransformer
 
         self.model = SentenceTransformer(
             'all-MiniLM-L6-v2'
